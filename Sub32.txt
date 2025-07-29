@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-</head>
-<body>
-<div id="cf-wrapper">
-    <div id="cf-error-details" class="p-0">
         <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
             <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
                 <span class="inline-block">Bad gateway</span>
@@ -15,7 +11,7 @@
             <div>
                 Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=paste.gg" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
             </div>
-            <div class="mt-3">2025-07-29 06:40:21 UTC</div>
+            <div class="mt-3">2025-07-29 07:29:42 UTC</div>
         </header>
         <div class="my-8 bg-gradient-gray">
             <div class="w-240 lg:w-full mx-auto">
@@ -90,12 +86,12 @@
 
         <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
     <p class="text-13">
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">966a9fd60f91fa8a</strong></span>
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">966ae8210e99250d</strong></span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">68.220.61.161</span>
+        <span class="hidden" id="cf-footer-ip">172.184.220.213</span>
         <span class="cf-footer-separator sm:hidden">&bull;</span>
       </span>
       <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&#38;utm_campaign=paste.gg" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -134,7 +130,7 @@
             <div>
                 Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=paste.gg" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
             </div>
-            <div class="mt-3">2025-07-29 06:40:22 UTC</div>
+            <div class="mt-3">2025-07-29 07:29:42 UTC</div>
         </header>
         <div class="my-8 bg-gradient-gray">
             <div class="w-240 lg:w-full mx-auto">
@@ -209,12 +205,12 @@
 
         <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
     <p class="text-13">
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">966a9fd95df2eb20</strong></span>
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">966ae8224c6aeb24</strong></span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">68.220.61.161</span>
+        <span class="hidden" id="cf-footer-ip">172.184.220.213</span>
         <span class="cf-footer-separator sm:hidden">&bull;</span>
       </span>
       <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&#38;utm_campaign=paste.gg" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -329,12 +325,6 @@ vless://9d5cc6f7-a8aa-487a-9895-3ba58d33c3eb@www.zula.ir:80?path=%2FV2ray.motorc
 vless://15b15cd3-d8c1-4c78-8e25-bd5a57fb9dfc@141.105.130.98:49938?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@18.176.215.63:2377?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3D%28TG%20%40WangCai2%2980b6690%3A72938#%F0%9F%87%AF%F0%9F%87%B5JP_%40wangcai_8
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REQzN1x1RDgzQ1x1REQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdUQ4M0RcdUREMzciLA0KICAiYWRkIjogIjExOC40My4xNTguMjIwIiwNCiAgInBvcnQiOiAiMjA1MjEiLA0KICAiaWQiOiAiYWI2ZGRlMDgtY2UwZC00YzNkLWI3MDgtZGE1M2FmMWE4NjJkIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJnb29nbGUuY29tIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==vmess
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REQzN1x1RDgzQ1x1REQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdUQ4M0RcdUREMzciLA0KICAiYWRkIjogIjEwOS4xMjMuMjM5Ljk4IiwNCiAgInBvcnQiOiAiODA4MCIsDQogICJpZCI6ICI5MzIyZDBlNi00Mjc1LTUyYmItODI2Yy03MzA5MDMwNmYwYmMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImNoYWNoYTIwLXBvbHkxMzA1IiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REQzN1x1RDgzQ1x1REQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdUQ4M0RcdUREMzciLA0KICAiYWRkIjogIjIxMC4zLjE1OS4xNTAiLA0KICAicG9ydCI6ICI0MjcxNyIsDQogICJpZCI6ICJiNTgwM2Q3NC1jNmY4LTQxNWYtZTFlNi1lYmM5ZTQyNjliODYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=hysteria2
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REQzN1x1RDgzQ1x1REQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdUQ4M0RcdUREMzciLA0KICAiYWRkIjogIjE1NC45MC40OS41NyIsDQogICJwb3J0IjogIjU4ODY4IiwNCiAgImlkIjogImZiZmZlYjZiLWI1ZTUtNGY3Ny04ODg4LWM3OTE5ZmJlYjBhZCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==hysteria2
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REQzN1x1RDgzQ1x1REQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdUQ4M0RcdUREMzciLA0KICAiYWRkIjogIjE4MS4yMTUuMTU0LjIyNyIsDQogICJwb3J0IjogIjIwNTIxIiwNCiAgImlkIjogIjhlZThhMjBlLWJmNzEtNDdjMy1hMGEzLTBjODY5OTRjZDNkYyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZ29vZ2xlLmNvbSIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=vmess
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REQzN1x1RDgzQ1x1REQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdUQ4M0RcdUREMzciLA0KICAiYWRkIjogIjIzLjE4NC44OC4xMjgiLA0KICAicG9ydCI6ICIyMDUyMSIsDQogICJpZCI6ICIwNmE1MTVmZi1mNThiLTQxMzktYWRlOC0wMWM4MzdkNjA2NjIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=trojan
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REQzN1x1RDgzQ1x1REQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdUQ4M0RcdUREMzciLA0KICAiYWRkIjogIjkxLjIyOC4xMC4xMjUiLA0KICAicG9ydCI6ICI0NzY4MiIsDQogICJpZCI6ICI2YjgzN2RkZC03ZGZiLTQ1MjAtZGQ5Yy02NWQ2MWQ2NDA4OTYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=ss
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REQzN1x1RDgzQ1x1REQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdUQ4M0RcdUREMzciLA0KICAiYWRkIjogIjQ1LjY3LjIzMC43OSIsDQogICJwb3J0IjogIjExMDUyIiwNCiAgImlkIjogIjMxNDE4NWY3LTkzMWQtNDY1Ni05MjJkLTA4NTdlN2FmZDIyNCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIi9KT0tFUlJWUE5fQklBX0NIQU5FTEBKT0tFUlJWUE4iLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=vmess
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REQzN1x1RDgzQ1x1REQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdUQ4M0RcdUREMzciLA0KICAiYWRkIjogIjQ3Ljc5LjQxLjE0IiwNCiAgInBvcnQiOiAiMTU5MjQiLA0KICAiaWQiOiAiZjUwNjI4ZWQtZTU2OC00Y2RlLWVkYTgtM2RjZTE1ZWRjMWMxIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvZjUwNjI4ZWQiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=ss
@@ -603,3 +593,13 @@ vless://35332035-3320-4530-a031-303120353520@188.208.110.58:8442?security=realit
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJob3N0IjoiYWUtMS1zc3QubWVkaWNhbGRyZWFtLmlyIiwiaWQiOiIzNTMzMjAzNS0zMzIwLTQ1MzAtYTAzMS0zMDMxMjAzNTM1MjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0IjoiODQ0MyIsInBzIjoiUmF5YW4gLSBTU1QgLSBBRSAtIEkgLSDwn5KuIHQubWUvUmF5YW5fQ29uZmlnIiwic2N5Ijoibm9uZSIsInNuaSI6ImFFLTEtc1N0Lm1FZGljYUxkcmVBbS5JciIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJob3N0IjoidHItMS1zc3QubWVkaWNhbGRyZWFtLmlyIiwiaWQiOiIzNTM3MjAzNS0zNDIwLTQxMzAtYjAyMC0zNDM5MjAzNTMwMjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0IjoiODQ0MyIsInBzIjoiUmF5YW4gLSBTU1QgLSBUUiAtIEkgLSDwn5KuIHQubWUvUmF5YW5fQ29uZmlnIiwic2N5Ijoibm9uZSIsInNuaSI6InRyLTEtc3N0Lm1lZGljYWxkcmVhbS5pciIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://35332031-3032-4035-b320-353520393920@57.129.15.177:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20DE%20-%20I%20-%20%F0%9F%8F%B5%20t.me/Rayan_Config
+vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJob3N0IjoiZGUtMS1zc3QubWVkaWNhbGRyZWFtLmlyIiwiaWQiOiIzNTMzMjAzMS0zMDMyLTQwMzUtYjMyMC0zNTM1MjAzOTM5MjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0IjoiODQ0MyIsInBzIjoiUmF5YW4gLSBTU1QgLSBERSAtIEkgLSDwn5KuIHQubWUvUmF5YW5fQ29uZmlnIiwic2N5Ijoibm9uZSIsInNuaSI6ImRlLTEtc3N0Lm1lZGljYWxkcmVhbS5pciIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://34392035-3120-4533-a031-303220313032@69.42.220.193:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20DE%20-%20II%20-%20%F0%9F%8F%B5%20t.me/Rayan_Config
+vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJob3N0IjoiZGUtMi1zc3QubWVkaWNhbGRyZWFtLmlyIiwiaWQiOiIzNDM5MjAzNS0zMTIwLTQ1MzMtYTAzMS0zMDMyMjAzMTMwMzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0IjoiODQ0MyIsInBzIjoiUmF5YW4gLSBTU1QgLSBERSAtIElJIC0g8J+SriB0Lm1lL1JheWFuX0NvbmZpZyIsInNjeSI6Im5vbmUiLCJzbmkiOiJkZS0yLXNzdC5tZWRpY2FsZHJlYW0uaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJob3N0IjoiZGUtMy1zc3QubWVkaWNhbGRyZWFtLmlyIiwiaWQiOiIzNTMwMjAzNS0zMjIwLTQ0MzktYTAzNS0zNDIwMzUzMDIwMzQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0IjoiODQ0MyIsInBzIjoiUmF5YW4gLSBTU1QgLSBERSAtIElJSSAtIPCfkq4gdC5tZS9SYXlhbl9Db25maWciLCJzY3kiOiJub25lIiwic25pIjoiZGUtMy1zc3QubWVkaWNhbGRyZWFtLmlyIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://35302035-3220-4439-a035-342035302034@213.108.198.158:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20DE%20-%20III%20-%20%F0%9F%8F%B5%20t.me/Rayan_Config
+vless://35342035-3220-4130-b220-343920353520@5.189.219.107:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20EE%20-%20I%20-%20%F0%9F%8F%B5%20t.me/Rayan_Config
+vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJob3N0IjoiZWUtMS1zc3QubWVkaWNhbGRyZWFtLmlyIiwiaWQiOiIzNTM0MjAzNS0zMjIwLTQxMzAtYjIyMC0zNDM5MjAzNTM1MjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0IjoiODQ0MyIsInBzIjoiUmF5YW4gLSBTU1QgLSBFRSAtIEkgLSDwn5KuIHQubWUvUmF5YW5fQ29uZmlnIiwic2N5Ijoibm9uZSIsInNuaSI6ImVlLTEtc3N0Lm1lZGljYWxkcmVhbS5pciIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://31303120-3130-4220-b536-203531203537@51.91.97.39:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20FR%20-%20I%20-%20%F0%9F%8F%B5%20t.me/Rayan_Config
+vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJob3N0IjoiZnItMS1zc3QubWVkaWNhbGRyZWFtLmlyIiwiaWQiOiIzMTMwMzEyMC0zMTMwLTQyMjAtYjUzNi0yMDM1MzEyMDM1MzciLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0IjoiODQ0MyIsInBzIjoiUmF5YW4gLSBTU1QgLSBGUiAtIEkgLSDwn5KuIHQubWUvUmF5YW5fQ29uZmlnIiwic2N5Ijoibm9uZSIsInNuaSI6ImZyLTEtc3N0Lm1lZGljYWxkcmVhbS5pciIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://39382035-3720-4130-b220-393720343920@170.39.216.138:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20FR%20-%20II%20-%20%F0%9F%8F%B5%20t.me/Rayan_Config
