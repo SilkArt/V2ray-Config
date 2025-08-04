@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.220.177:8880?path=/reklaz1FsDrIv7mW?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#🇨🇦CA_10164_@Surfboardv2ray
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.220.177:8880?path=/reklaz1FsDrIv7mW?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#🇨🇦CA_10165_@Surfboardv2ray
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.220.177:8880?path=/reklaz1FsDrIv7mW?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#🇨🇦CA_10166_@Surfboardv2ray
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.220.177:8880?path=/reklaz1FsDrIv7mW?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#🇨🇦CA_10167_@Surfboardv2ray
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.220.177:8880?path=/reklaz1FsDrIv7mW?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#🇨🇦CA_10168_@Surfboardv2ray
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.220.177:8880?path=/reklaz1FsDrIv7mW?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#🇨🇦CA_10169_@Surfboardv2ray
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.220.177:8880?path=/reklaz1FsDrIv7mW?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#🇨🇦CA_10170_@Surfboardv2ray
@@ -599,7 +603,3 @@ vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.228.91:80?path=/vpnowl-vpnow
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.228.91:80?path=/vpnowl-vpnowl-vpnowl-vpnowl?ed=2560&security=none&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&fp=chrome&type=ws&sni=barayeiran.mahiozonboroon.qzz.io#🇨🇦CA_10761_@Surfboardv2ray
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.228.91:80?path=/vpnowl-vpnowl-vpnowl-vpnowl?ed=2560&security=none&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&fp=chrome&type=ws&sni=barayeiran.mahiozonboroon.qzz.io#🇨🇦CA_10762_@Surfboardv2ray
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.228.91:80?path=/vpnowl-vpnowl-vpnowl-vpnowl?ed=2560&security=none&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&type=ws#🇨🇦CA_10763_@Surfboardv2ray
-vless://f278037e-ce36-4634-9b4d-fca93e345a35@194.182.79.142:11745?mode=gun&security=reality&encryption=none&authority=&pbk=hgaeyKQWo1Cf0fDhXVD2AZKI6DfOhBhjsSSfccW7ADo&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=26a52325#🇨🇿CZ_10764_@Surfboardv2ray
-vless://f278037e-ce36-4634-9b4d-fca93e345a35@194.182.79.142:11745?mode=gun&security=reality&encryption=none&authority=&pbk=hgaeyKQWo1Cf0fDhXVD2AZKI6DfOhBhjsSSfccW7ADo&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=26a52325#🇨🇿CZ_10765_@Surfboardv2ray
-vless://f278037e-ce36-4634-9b4d-fca93e345a35@194.182.79.142:11745?mode=gun&security=reality&encryption=none&pbk=hgaeyKQWo1Cf0fDhXVD2AZKI6DfOhBhjsSSfccW7ADo&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=26a52325#🇨🇿CZ_10766_@Surfboardv2ray
-vless://f278037e-ce36-4634-9b4d-fca93e345a35@194.182.79.142:11745?mode=gun&security=reality&encryption=none&pbk=hgaeyKQWo1Cf0fDhXVD2AZKI6DfOhBhjsSSfccW7ADo&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=26a52325#🇨🇿CZ_10767_@Surfboardv2ray
