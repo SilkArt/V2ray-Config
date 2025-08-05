@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://435fab40-a9fb-4b45-b7c4-0aed8b63a3c2@www.speedtest.net:80?path=/?ed=80&security=none&encryption=none&host=www.speedtest.net.m.1.avaacado.ir.&type=ws#🇨🇦CA_3563_@Surfboardv2ray
 vless://437264a0-b68c-4aca-9eca-23bb2fafe04d@151.101.2.216:80?path=/ws/GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN?ed=2048&security=none&encryption=none&alpn=h2,http/1.1&host=GozargahVPN.ir&fp=chrome&type=ws&sni=fastly.com#🇺🇸US_3564_@Surfboardv2ray
 vless://43750da6-5020-4f24-b9be-df0507b9b19a@senatorrea-02.flightbean24.com:1370?security=reality&encryption=none&pbk=-yGe7KeDFSy8uzJ20PzuYfRwf0AgBmFhhi1ZzgiYBks&headerType=none&fp=chrome&spx=/&type=tcp&sni=store.steampowered.com&sid=eaa704c0444c9c#🇩🇪DE_3565_@Surfboardv2ray
 vless://43750da6-5020-4f24-b9be-df0507b9b19a@senatorrea-02.flightbean24.com:1370?security=reality&encryption=none&pbk=-yGe7KeDFSy8uzJ20PzuYfRwf0AgBmFhhi1ZzgiYBks&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com&sid=eaa704c0444c9c#🇩🇪DE_3566_@Surfboardv2ray
@@ -602,4 +603,3 @@ vless://52adc6ba-b1c7-4541-a594-08fc698be640@grounded-brother.seotoolsforyou.co.
 vless://52adc6ba-b1c7-4541-a594-08fc698be640@grounded-brother.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#🇨🇦CA_4160_@Surfboardv2ray
 vless://52adc6ba-b1c7-4541-a594-08fc698be640@grounded-brother.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#🇨🇦CA_4161_@Surfboardv2ray
 vless://52adc6ba-b1c7-4541-a594-08fc698be640@grounded-brother.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#🇨🇦CA_4162_@Surfboardv2ray
-vless://52adc6ba-b1c7-4541-a594-08fc698be640@grounded-brother.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#🇨🇦CA_4163_@Surfboardv2ray

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@workers.dev:8443?path=/proxyip=zani.yaemiko.ggff.net/?@V2rayBaaz_BIA_CHANEL@V2rayBaaz&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#🇨🇦CA_2963_@Surfboardv2ray
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@workers.dev:8443?path=/proxyip=zani.yaemiko.ggff.net/?@V2rayBaaz_BIA_CHANEL@V2rayBaaz&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#🇨🇦CA_2964_@Surfboardv2ray
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@workers.dev:8443?path=/proxyip=zani.yaemiko.ggff.net/?JOKERRVPN_BIA_CHANEL@JOKERRVPN&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#🇨🇦CA_2965_@Surfboardv2ray
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@workers.dev:8443?path=/proxyip=zani.yaemiko.ggff.net/?JOKERRVPN_BIA_CHANEL@JOKERRVPN&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#🇨🇦CA_2966_@Surfboardv2ray
@@ -602,4 +603,3 @@ vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.1.103:80?path=/?ed=2560&secu
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@190.93.244.221:443?security=tls&sni=gozargah.validbv7996.ir&fp=chrome&type=ws&path=/?ed=2560&host=gozargah.validbv7996.ir&encryption=none#🇨🇷CR_3560_@Surfboardv2ray
 vless://42f64a47-7b67-417c-8445-e5a823c9ec4a@185.209.21.36:41569?path=/&security=none&encryption=none&host=tgju.org&type=ws#🇳🇱NL_3561_@Surfboardv2ray
 vless://432e1e8b-18ce-488f-8203-2ba54b2fb61f@104.21.21.31:443?security=tls&sni=us.cishanjichang.me&fp=chrome&type=ws&path=/swordnewnewnew&host=us.cishanjichang.me&encryption=none#🇨🇦CA_3562_@Surfboardv2ray
-vless://435fab40-a9fb-4b45-b7c4-0aed8b63a3c2@www.speedtest.net:80?path=/?ed=80&security=none&encryption=none&host=www.speedtest.net.m.1.avaacado.ir.&type=ws#🇨🇦CA_3563_@Surfboardv2ray

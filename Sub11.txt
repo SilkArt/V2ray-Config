@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://52adc6ba-b1c7-4541-a594-08fc698be640@grounded-brother.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#🇨🇦CA_4163_@Surfboardv2ray
 vless://52adc6ba-b1c7-4541-a594-08fc698be640@grounded-brother.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#🇨🇦CA_4164_@Surfboardv2ray
 vless://52c0e96b-b8d7-44a5-a995-bd866bf39ec6@104.21.64.1:443?security=tls&sni=M10EEeeEEeEEeEEeEeeEeeEeeeeeEe.7777128.xYZ&alpn=http/1.1&fp=chrome&type=ws&path=/YzFLmzNIEQsAmceLxv94lPbgMw&host=m10eeeeeeeeeeeeeeeeeeeeeeeeeee.7777128.xyz&encryption=none#🇨🇦CA_4165_@Surfboardv2ray
 vless://52f9a9c0-ae3e-400c-a5f2-0360025db51d@91.107.170.66:48883?security=reality&encryption=none&pbk=smZYwv5E-y4d4u5ovxQ8BYcfNE8gy3mkANAQzoWyBmI&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=3518ea8cbd9317#🇩🇪DE_4166_@Surfboardv2ray
@@ -602,4 +603,3 @@ vless://6192c1d9-5ae1-40ba-9cbb-cfacc2f8533c@wonderful-degree.seotoolsforyou.co.
 vless://6192c1d9-5ae1-40ba-9cbb-cfacc2f8533c@wonderful-degree.seotoolsforyou.co.uk:80?security=none&encryption=none&type=ws&path=/ @confing_chanel#🇨🇦CA_4760_@Surfboardv2ray
 vless://619d59be-653f-4388-a579-7732a7ee8b54@cdnf.ten10rocket.top:80?path=/?ed=2048&security=&encryption=none&host=iraneazad-with-me.ir&type=ws#🇮🇹IT_4761_@Surfboardv2ray
 vless://61d23b08-d1f6-4429-90cf-e9c28e74a08c@GR.LoadBalance.LAT:9559?security=none&encryption=none&host=Journalofbigdata.springeropen.com&headerType=http&type=tcp#🇮🇷IR_4762_@Surfboardv2ray
-vless://61d23b08-d1f6-4429-90cf-e9c28e74a08c@RU.LoadBalance.LAT:1320?security=none&encryption=none&host=Journalofbigdata.springeropen.com&headerType=http&type=tcp#🇮🇷IR_4763_@Surfboardv2ray
