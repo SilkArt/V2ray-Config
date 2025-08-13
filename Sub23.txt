@@ -3,20 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-			"remarks" : "dongtaiwang.com",
-			"id" : "E5904C6BDD4AA395CF56ED1A1E504C00",
-			"server" : "aiavnd1.vip.conectinnode.info",
-			"server_port" : 1611,
-			"server_udp_port" : 0,
-			"password" : "mtbv8n",
-			"method" : "chacha20-ietf",
-			"protocol" : "auth_aes128_md5",
-			"protocolparam" : "135238:ekBYebTKgsF",
-			"obfs" : "plain",
-			"obfsparam" : "dad31135238.wns.windows.com",
-			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
-			"group" : "",
-			"enable" : true,
 			"udp_over_tcp" : false
 		}
 	],
@@ -603,3 +589,17 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjIiLCJhZGQiOiIyLjE4OC4yMTkuNDMiLCJwb3J0Ijoi
 trojan://Aimer@154.197.64.196:2087?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A523
 ss://YWVzLTEyOC1nY206MDE3MjFlNDMtNTM4OS00Zjk3LWIyMWMtOTAwYWJiMmJkYTll@awes35lesl.blhao0o.dpdns.org:12028#%E6%9C%AA%E7%9F%A524
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:347?sni=www.baidu.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
+trojan://Aimer@27.50.49.37:2053?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A525
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:447?sni=www.baidu.com#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
+trojan://Aimer@46.254.93.211:2053?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A526
+trojan://Aimer@188.164.159.43:2083?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A527
+trojan://Aimer@27.50.49.136:443?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A528
+ss://YWVzLTEyOC1nY206MDE3MjFlNDMtNTM4OS00Zjk3LWIyMWMtOTAwYWJiMmJkYTll@awes35lesl.blhao0o.dpdns.org:12024#%E6%9C%AA%E7%9F%A529
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@81.19.137.222:57456#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD2%201.7MB%2Fs
+trojan://Aimer@188.164.159.98:2083?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A530
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#%F0%9F%87%B1%F0%9F%87%B9LT%E7%AB%8B%E9%99%B6%E5%AE%9B%20154.4KB%2Fs
+trojan://Aimer@154.197.64.219:2083?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A531
+trojan://Aimer@154.26.182.37:443?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#US16
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:444?sni=www.ithome.com#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF2
+trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@13c2c931-swin40-swy6li-tni2.cu.plebai.net:15229?sni=13c2c931-swin40-swy6li-tni2.cu.plebai.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
+trojan://Aimer@220.72.106.154:12127?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A532
