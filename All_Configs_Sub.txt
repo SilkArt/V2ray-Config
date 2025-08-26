@@ -13737,6 +13737,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMaUhRWDljRGJkb29CSGxJZzBlaXFR@45.144.54.33:34803#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD4
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.141:320?sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A14
 
+vless://c9b0100b-01b9-4167-b9e2-a0a8cad1e32b@m23a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%B5%F0%9F%87%B1
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=F50o1EkIeI.lIrA9xC7.iNfO&fp=chrome&type=ws&sni=F50o1EkIeI.lIrA9xC7.iNfO#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%BA%F0%9F%87%B8
 vmess://eyJhZGQiOiJucG1qcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5hc25ldC00NTE1MDE3NDc1Lm1hc2hhbGxhaGJldC5jb20iLCJpZCI6Im5hc25ldCIsIm5ldCI6IndzIiwicGF0aCI6Ii9OQVNORVQvY2RuIiwicG9ydCI6IjgwODAiLCJwcyI6Ilvwn4eo8J+Hpl10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://ec3ee517-f133-4908-8364-633be2647b19@www.speedtest.net:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=balancer-1.access.name.ng&fp=chrome&type=ws&sni=balancer-1.access.name.ng#%F0%9F%87%AE%F0%9F%87%B3telegram%20%E2%9E%A0%20%40v2rayNG_Matsuri
@@ -13842,7 +13843,6 @@ vless://e89ba39d-ae7e-493a-a57b-cdd55b42b4e3@188.245.75.235:443?security=none&en
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.209:8080#[
 vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?path=%2Fjzmdpvws&security=tls&encryption=none&fp=chrome&type=ws#%40Daily_Configs
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.97:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.121:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#@meli_proxyy
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.133:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh26v3.sport26tennis.shop#%F0%9F%9F%A3%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%A8%D8%A7%20%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%A8%D8%A7%D9%84%D8%A7%20%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C%20%40Outlinev_2rayNG
@@ -17562,8 +17562,8 @@ trojan://%40Noforcedheaven%40Noforcedheaven%40Noforcedheaven%40Noforcedheaven%40
 </head>
 <body>
 <div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiMmEzNWM3MmEtZWNkNi00MDU5LWFiMTgtYTg4OGNjNTgyMDk2IiwicGFnZV90aW1lIjoxNzU2MTc4MDA0LCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluLyIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6ImFwaS55ZWJla2hlLmxpbmsiLCJpcCI6IjIwLjQ5LjEzLjE4MSJ9Cg==";</script>
-<script src="/bHpXikPPd.js"></script>
+<script>window.park = "eyJ1dWlkIjoiZTI0OTNkOTAtZmRiMi00ZTFiLTgxYTAtOGIxZmYxMjMzN2M3IiwicGFnZV90aW1lIjoxNzU2MTgyNTM0LCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluLyIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6ImFwaS55ZWJla2hlLmxpbmsiLCJpcCI6IjEzNS4yMzIuMjAxLjMyIn0K";</script>
+<script src="/bwuRDJBHm.js"></script>
 </body>
 </html>
 
@@ -18528,7 +18528,6 @@ vless://738c5a04-817a-4f50-b327-893595010155@all32-vip.f-sub.com:2434?security=r
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#4gyd-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20🔗
 vless://2de98c6e-319d-4fd1-81ba-82237c44ed36@c51.aminzing.lol:443?path=%2FZjm69xMidcGhvbKndEqiP5s42Ba&security=tls&alpn=h2&encryption=none&host=c51.aminzing.lol&fp=chrome&type=httpupgrade&sni=c51.aminzing.lol#27hv-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20🔗
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&security=&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#dmkb-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20🔗
-vless://101e6a7d-7d10-4859-a626-8a76daab4547@openai.com:443?encryption=none&security=tls&sni=nkAnG2rEpLACE.airlineSHoma.Com&fp=randomized&type=ws&host=nkAnG2rEpLACE.airlineSHoma.Com&path=%2F%3Fed%3D2560#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8```
 vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beloved-failure.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=%2F#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 vless://bd9b0366-e5dd-4665-bd5b-9896bc7327ae@modern-promise.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=%2F#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 vless://34797f17-09a1-400c-9f4b-275718d62a0f@brainy-party.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=%2F#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
