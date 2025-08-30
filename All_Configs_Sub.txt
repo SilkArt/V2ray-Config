@@ -21075,8 +21075,8 @@ trojan://%40Noforcedheaven%40Noforcedheaven%40Noforcedheaven%40Noforcedheaven%40
 </head>
 <body>
 <div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiYzQ4MDNjYWQtODRjMS00N2M2LWFhMTMtZjk4NTI5NjU2ODY1IiwicGFnZV90aW1lIjoxNzU2NTg1NDI2LCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluLyIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6ImFwaS55ZWJla2hlLmxpbmsiLCJpcCI6IjQwLjc2LjE5MS4xMzEifQo=";</script>
-<script src="/bvMKILfSx.js"></script>
+<script>window.park = "eyJ1dWlkIjoiMmQ2MjFhODAtOGY4MS00OWM2LWJkZTEtMDFlYzM4OWYxMmE2IiwicGFnZV90aW1lIjoxNzU2NTg4Nzg4LCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluLyIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6ImFwaS55ZWJla2hlLmxpbmsiLCJpcCI6IjEzNS4yMzIuMjMyLjg0In0K";</script>
+<script src="/bFZyeAESf.js"></script>
 </body>
 </html>
 
@@ -22126,14 +22126,14 @@ vless://15b15cd3-d8c1-4c78-8e25-bd5a57fb9dfc@141.105.130.98:49938?security=none&
 
             <div class="cf-error-footer cf-wrapper">
     <p>
-      <span class="cf-footer-item">Cloudflare Ray ID: 9777020fb954b560</span>
+      <span class="cf-footer-item">Cloudflare Ray ID: 97775426ccf5dd00</span>
       <span class="cf-footer-separator">&bull;</span>
-      <span class="cf-footer-item">2025-08-30 20:23:48 UTC</span>
+      <span class="cf-footer-item">2025-08-30 21:19:50 UTC</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden">
         <span class="cf-footer-separator">&bull;</span>
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">40.76.191.131</span>
+        <span class="hidden" id="cf-footer-ip">135.232.232.84</span>
       </span>
       <span class="cf-footer-separator">&bull;</span>
       <span class="cf-footer-item"><span>Runs on </span><a rel="noopener noreferrer" href="https://workers.cloudflare.com?utm_source=error_footer" id="brand_link" target="_blank">Cloudflare Workers</a></span>
