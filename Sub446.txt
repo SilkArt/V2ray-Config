@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://32f09b70-d2f7-11ee-abda-00505603e70d@172.67.158.12:443/?type=ws&encryption=none&host=st-gb-1.brocdn.com&path=%2Fwebsocket&security=tls&sni=st-gb-1.brocdn.com#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20
 vless://434cd366-748e-4ec6-91f5-df027467ff8b@193.107.48.162:37829/?encryption=none&host=fast.com&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20
 vless://63165b83-9244-465d-b1cf-f4524c28f611@66.235.200.91:2095/?type=ws&encryption=none&host=13.v2.n.www.speedtest.net.dnschecker.one.chanel99.online&path=TelegramChanel%3At.me%2FHTTP_injector99#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20
 vless://0012d4b0-1ab7-466b-85e8-8eaf05c6db9c@213.176.0.240:43521/?encryption=none&host=match-cdn.varzesh3.com&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20
@@ -514,92 +513,93 @@ We couldn&#x27;t find what you&#x27;re looking for. Sorry!
 </html>
 
 <!doctype html>
-<html lang="en" class="no-js">
-<head>
-  <meta charset="utf-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title>404 · paste.gg</title>
-  <script
-    src="/static/js/detect-js.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
-    integrity="sha384-steVzOSr5DI5VId9YubIjP5piv7RVCSZI7DmaxRj6VrZPzoPUmw/i6YbPCnE5HIi"></script>
-<link
-  title="dark"
-  rel="stylesheet"
-  href="/static/css/dark-style.css?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
-  integrity="sha384-y+RMeVK5OKTpmebEnnHyDAEECqdhBkSLfyPKO1b7CokmrpIKDor61jc7Wi7fQR7A"/>
-<link
-  title="light"
-  rel="stylesheet alternate"
-  href="/static/css/style.css?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
-  integrity="sha384-h/nZ9blViSRWoEdjXp0507aSEv57qJuD982XXmJDC4pfhDbFs/acexCxPNm6Ogbf"/>
-<script
-  src="/static/js/style.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
-  integrity="sha384-zwBoM/SvColCwJ9hm3JZVZgpLWTXKwowuywp+8KnSA2XpcN9SlsUnCt4D0WEXaYY"></script>
-<script
-  defer
-  src="/static/js/navbar.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
-  integrity="sha384-OsNHhrFcStlvb1ftG+CsyQVuRliPz3UoK2zgo4aKw1z8qKR460OLsn9X3EHysa7y"></script>
-<script
-  defer
-  src="/static/js/notifications.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
-  integrity="sha384-yI6E6wBeIs/7kTFxJ5ZSJSiuDwP7QCjkmK+mnQ7ROOvMq0a6H6pgbZyBEa2+7wws"></script>
-<link rel="icon" sizes="16x16 32x32 48x48 64x64" href="/static/favicons/favicon.ico"/>
-<!--[if IE]><link rel="shortcut icon" href="/static/favicons/favicon.ico"/><![endif]-->
-<link rel="apple-touch-icon-precomposed" href="/static/favicons/favicon-152.png"/>
-<meta name="msapplication-TileColor" content="#FFFFFF"/>
-<meta name="msapplication-TileImage" content="/static/favicons/favicon-144.png"/>
-<meta name="msapplication-square70x70logo" content="/static/favicons/favicon-70.png"/>
-<meta name="msapplication-square150x150logo" content="/static/favicons/favicon-150.png"/>
-<meta name="msapplication-square310x310logo" content="/static/favicons/favicon-310.png"/>
-<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/static/favicons/favicon-152.png"/>
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/static/favicons/favicon-144.png"/>
-<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/static/favicons/favicon-120.png"/>
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/static/favicons/favicon-114.png"/>
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/static/favicons/favicon-72.png"/>
-<link rel="apple-touch-icon-precomposed" href="/static/favicons/favicon-57.png"/></head>
-<body>
-<div class="wrapper">
-  <nav class="navbar">
-    <div class="navbar-brand">
-      <a class="navbar-item" href="&#x2F;">
-        <span class="icon is-small">
-          <svg viewBox="0 0 24 24">
-  <use href="/static/svg/icons.svg?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6#paste"></use>
-</svg>
-        </span>
-        <span>paste.gg</span>
-      </a>
-      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="menu">
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-      </a>
-    </div>
-    <div id="menu" class="navbar-menu">
-      <div class="navbar-start">
-        <a class="navbar-item" href="&#x2F;">
-          New
-        </a>
-      </div>
-      <div class="navbar-end">
-        <a class="navbar-item" href="&#x2F;about">
-          About
-        </a>
-      
-        <div class="navbar-item has-dropdown is-hoverable"><a class="navbar-link" href="&#x2F;login">
-            Log in
-          </a>
-          <div class="navbar-dropdown is-right"><a class="navbar-item" href="&#x2F;register">
-              Register
-            </a>
-            <div class="requires-js">
-              <hr class="navbar-divider"/>
-              <a class="navbar-item" id="swap_theme" href="javascript:void(0)">
-                Swap theme
-              </a>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en-US">
+    <!--<![endif]-->
+    <head>
+        <title>Could not find host | paste.gg | Cloudflare</title>
+        <meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" /> <script>
+  (function(){if(document.addEventListener&&window.XMLHttpRequest&&JSON&&JSON.stringify){var e=function(a){var c=document.getElementById("error-feedback-survey"),d=document.getElementById("error-feedback-success"),b=new XMLHttpRequest;a={event:"feedback clicked",properties:{errorCode: 1022 },helpful:a,version: 1 };b.open("POST","https://sparrow.cloudflare.com/api/v1/event");b.setRequestHeader("Content-Type","application/json");b.setRequestHeader("Sparrow-Source-Key","c771f0e4b54944bebf4261d44bd79a1e");
+b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove("feedback-hidden")};document.addEventListener("DOMContentLoaded",function(){var a=document.getElementById("error-feedback"),c=document.getElementById("feedback-button-yes"),d=document.getElementById("feedback-button-no");"classList"in a&&(a.classList.remove("feedback-hidden"),c.addEventListener("click",function(){e(!0)}),d.addEventListener("click",function(){e(!1)}))})}})();
+</script>
+        <script
+            defer
+            src="https://performance.radar.cloudflare.com/beacon.js"
+        ></script>
+    </head>
+    <body>
+        <div id="cf-wrapper">
+            <div
+                class="cf-alert cf-alert-error cf-cookie-error hidden"
+                id="cookie-alert"
+                data-translate="enable_cookies"
+            >
+                Please enable cookies.
             </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </nav>
+            <div id="cf-error-details" class="p-0">
+                <header
+                    class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-15 antialiased"
+                >
+                    <h1
+                        class="inline-block md:block mr-2 md:mb-2 font-light text-60 md:text-3xl text-black-dark leading-tight"
+                    >
+                        <span data-translate="error">Error</span>
+                        <span>1022</span>
+                    </h1>
+                    <span
+                        class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed"
+                        >Ray ID: 988d70eaabf5db3c &bull;</span
+                    >
+                    <span
+                        class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed"
+                        >2025-10-03 15:23:32 UTC</span
+                    >
+                    <h2
+                        class="text-gray-600 leading-1.3 text-3xl lg:text-2xl font-light"
+                    >
+                        Could not find host
+                    </h2>
+                </header>
+                
+                
+                <section class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
+                    <div id="what-happened-section" class="w-1/2 md:w-full">
+                        <h2
+                            class="text-3xl leading-tight font-normal mb-4 text-black-dark antialiased"
+                            data-translate="what_happened"
+                        >
+                            What happened?
+                        </h2>
+                        
+                            <p>You've requested a page on a website (paste.gg) that is on the <a href="https://www.cloudflare.com/5xx-error-landing/" target="_blank">Cloudflare</a> network. Cloudflare is currently unable to resolve your requested domain (paste.gg). There are two potential causes of this:</p>
+        <ul class="ml-10 mt-6 text-15 text-black-dark antialiased leading-normal">
+            <li class="mb-4"><strong class="font-semibold">Most likely:</strong> if the owner just signed up for Cloudflare it can take a few minutes for the website's information to be distributed to our global network.</li>
+            <li><strong>Less likely:</strong> something is wrong with this site's configuration. Usually this happens when accounts have been signed up with a partner organization (e.g., a hosting provider) and the provider's DNS fails.</li>
+        </ul>
+                        
+                        
+                    </div>
+
+                    
+                </section>
+                
+
+                <div class="feedback-hidden py-8 text-center" id="error-feedback">
+    <div id="error-feedback-survey" class="footer-line-wrapper">
+        Was this page helpful?
+        <button
+            class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded"
+            id="feedback-button-yes"
+            type="button"
+        >
+            Yes
+        </button>
+        <button
