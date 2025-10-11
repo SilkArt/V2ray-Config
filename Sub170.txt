@@ -26,8 +26,8 @@ trojan://%40Noforcedheaven%40Noforcedheaven%40Noforcedheaven%40Noforcedheaven%40
 </head>
 <body>
 <div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiMzMyZTk1M2UtZGEwMS00N2U4LWExNTctYTQ2ZDBkOTdiOTI0IiwicGFnZV90aW1lIjoxNzYwMTc0NDk0LCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluLyIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6ImFwaS55ZWJla2hlLmxpbmsiLCJpcCI6IjUyLjE1OS4yNDMuMTgxIn0K";</script>
-<script src="/bQmpORDrw.js"></script>
+<script>window.park = "eyJ1dWlkIjoiNTc2YmE1YjItZDA3ZC00YWI1LWI4NDMtNWNhYTI0MzQ5MTVjIiwicGFnZV90aW1lIjoxNzYwMTc4MTM1LCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluLyIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6ImFwaS55ZWJla2hlLmxpbmsiLCJpcCI6IjUyLjI0Mi4yNDMuOTkifQo=";</script>
+<script src="/bnUpxGRBn.js"></script>
 </body>
 </html>
 
