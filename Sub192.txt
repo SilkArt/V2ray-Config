@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.247:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷FR_5564_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.69:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#🇫🇷FR_5565_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.69:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷FR_5566_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.69:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷FR_5567_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.69:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷FR_5568_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.72:8880/?type=grpc&encryption=none#🇫🇷FR_5569_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.72:8880?mode=gun&security=&encryption=none&fp=chrome&type=grpc#🇫🇷FR_5570_@Surfboardv2ray
@@ -599,7 +603,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.115:8880?mode=gun&securi
 
           
           <div class="cf-column">
-            <h2 data-translate="what_can_i_do">What can I do?</h2>
-            <p><strong>If you are the owner of this website:</strong><br />refer to <a href="https://developers.cloudflare.com/workers/observability/errors/" target="_blank">Workers - Errors and Exceptions</a> and check Workers Logs for ip-api.colaho6124.workers.dev.</p>
-          </div>
-          

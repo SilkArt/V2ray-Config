@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@178.209.50.206:989#%F0%9F%87%A8%F0%9F%87%ADCH-178.209.50.206-4045
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.78-3740
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.143.129.230:989#%F0%9F%87%AB%F0%9F%87%AEFI-37.143.129.230-3845
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.80-3825
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@169.150.210.233:8080#%F0%9F%87%AC%F0%9F%87%A7GB-169.150.210.233-3741
+ss://YWVzLTI1Ni1nY206OWFjZmM1NzQtYWNjMy00YzJiLWFiM2ItNDkxZDQzYTZlYjgz@154.83.90.11:21114#%F0%9F%87%BA%F0%9F%87%B8US-154.83.90.11-3858
 ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw==@195.238.126.84:9039#%F0%9F%87%B1%F0%9F%87%B9LT-195.238.126.84-5670
 trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&sni=x1fr-ovh.devefun.net#%F0%9F%87%AB%F0%9F%87%B7FR-51.68.13.106-4734
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#%F0%9F%87%A8%F0%9F%87%BFCZ-195.181.160.6-4181
@@ -196,7 +202,7 @@ vless://8e6c4dcd-9fd6-42c7-80f4-a6c46a13ca43@speed.cloudflare.com:80/?type=ws&en
             <div>
                 Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&utm_campaign=paste.gg" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
             </div>
-            <div class="mt-3">2025-10-25 23:21:53 UTC</div>
+            <div class="mt-3">2025-10-26 02:00:28 UTC</div>
         </header>
         <div class="my-8 bg-gradient-gray">
             <div class="w-240 lg:w-full mx-auto">
@@ -225,7 +231,7 @@ vless://8e6c4dcd-9fd6-42c7-80f4-a6c46a13ca43@speed.cloudflare.com:80/?type=ws&en
     <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
     </a>
   </div>
-  <span class="md:block w-full truncate">Los Angeles</span>
+  <span class="md:block w-full truncate">Dallas</span>
   <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
   <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&utm_campaign=paste.gg" target="_blank" rel="noopener noreferrer">
     Cloudflare
@@ -276,12 +282,12 @@ vless://8e6c4dcd-9fd6-42c7-80f4-a6c46a13ca43@speed.cloudflare.com:80/?type=ws&en
 
         <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
     <p class="text-13">
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">994573722f88f59a</strong></span>
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">99465bc34c6645f9</strong></span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">172.182.226.20</span>
+        <span class="hidden" id="cf-footer-ip">52.173.181.19</span>
         <span class="cf-footer-separator sm:hidden">&bull;</span>
       </span>
       <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&#38;utm_campaign=paste.gg" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -597,9 +603,3 @@ ssr://OTQuMTAyLjU3LjE2MzoxMTcwODpvcmlnaW46YWVzLTI1Ni1jZmI6aHR0cF9zaW1wbGU6YzBWel
 vless://a7e3db08-6fb7-4ffd-9415-59d1b5c6eeb6@148.113.207.224:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20CA%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 vless://17108cd5-ddcf-4b6e-bb43-36a711a01366@74.119.193.40:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20HK%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 vless://48bbb385-8877-4b2d-8f42-d81df401725d@5.253.43.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20IT%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://99f47914-23d8-4367-81bc-b4b759eb7505@45.83.22.118:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20JP%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://ddab5550-3938-4aba-943c-f23a08d07dc5@57.128.219.105:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20PL%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://97c02cbb-eef4-427c-bb25-a5720886b006@45.87.155.14:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20UA%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://5915f034-a53b-4b63-b0e7-b29194de3fe9@51.195.202.129:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20UK%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-
-vless://f2004126-5865-4980-b6dd-2211dbaadf10@zula.ir:443?security=tls&sni=colombia.sahel.us.kg&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=colombia.sahel.us.kg&encryption=none#Rayan - CF - C1 - 443

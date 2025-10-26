@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+    
+            <section></section><!-- spacer -->
+    
+            <div class="cf-section cf-wrapper">
                 <div class="cf-columns two">
                     <div class="cf-column">
                         <h2 data-translate="what_happened">What happened?</h2>
@@ -599,7 +603,3 @@ vless://d002b1a4-ef75-44d2-96e2-bacdfa096f28@canada.huqpmfood.ir:1331?encryption
                 <h1>
                     <span class="cf-error-type" data-translate="error">Error</span>
                     <span class="cf-error-code">1101</span>
-                    <small class="heading-ray-id">Ray ID: 99435c95ef97fa0f &bull; 2025-10-25 17:16:25 UTC</small>
-                </h1>
-                <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
-            </div><!-- /.header -->

@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+        <h1>
+          <span class="cf-error-type" data-translate="error">Error</span>
+          <span class="cf-error-code">1101</span>
+          <small class="heading-ray-id">Ray ID: 99435514bfe2cc1a &bull; 2025-10-25 17:11:18 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -599,7 +603,3 @@ vless://57c71c19-6eb1-466b-e921-d3120fbbbe1a@91.98.152.204:443?mode=auto&path=/d
 <!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
 <!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
-<head>
-<title>Worker threw exception | ip-api.colaho6124.workers.dev | Cloudflare</title>
-<meta charset="UTF-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
