@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://49fc52a8-64d5-4fbe-8049-97e9173b2937@185.146.173.58:8080/?type=ws&encryption=none&host=lc4.lebasnoo.ir.&path=%2Fservernett#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://1f48f432-fff4-474f-c3a6-08cf1db5b709@104.21.2.232:443/?type=ws&encryption=none&host=pay.technator.net&path=%2Fimage%2F20992&security=tls&sni=pay.technator.net&fp=chrome#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://87571e5d-b38e-4007-cf53-cfe3100912b6@104.21.46.253:8880/?type=ws&encryption=none&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws82.cloudfront.net.kiava.fun&path=%2F%3Fed%3D2560#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://bf5fc7a5-e7a5-40e3-8344-dd0b4c16b891@104.17.148.22:80/?type=ws&encryption=none&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.mozdfree.bUzz.&path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
@@ -384,7 +383,7 @@ vless://8e6c4dcd-9fd6-42c7-80f4-a6c46a13ca43@speed.cloudflare.com:80/?type=ws&en
             <div>
                 Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&utm_campaign=paste.gg" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
             </div>
-            <div class="mt-3">2025-10-26 11:19:33 UTC</div>
+            <div class="mt-3">2025-10-26 12:46:16 UTC</div>
         </header>
         <div class="my-8 bg-gradient-gray">
             <div class="w-240 lg:w-full mx-auto">
@@ -413,7 +412,7 @@ vless://8e6c4dcd-9fd6-42c7-80f4-a6c46a13ca43@speed.cloudflare.com:80/?type=ws&en
     <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
     </a>
   </div>
-  <span class="md:block w-full truncate">Los Angeles</span>
+  <span class="md:block w-full truncate">Ashburn</span>
   <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
   <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&utm_campaign=paste.gg" target="_blank" rel="noopener noreferrer">
     Cloudflare
@@ -464,12 +463,12 @@ vless://8e6c4dcd-9fd6-42c7-80f4-a6c46a13ca43@speed.cloudflare.com:80/?type=ws&en
 
         <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
     <p class="text-13">
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">99498eb97ce1f20b</strong></span>
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">994a0dbc7853d6f9</strong></span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">172.182.195.186</span>
+        <span class="hidden" id="cf-footer-ip">9.234.149.183</span>
         <span class="cf-footer-separator sm:hidden">&bull;</span>
       </span>
       <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&#38;utm_campaign=paste.gg" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -603,3 +602,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiZmFw
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoic2VyaWJ1cy5vcmciLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIxIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoic2VyaWJ1cy5vcmciLCJwYXRoIjoibGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6InNlcmlidXMub3JnIiwiYWxwbiI6IiJ9
 vmess://eyJ2IjpudWxsLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6IjQ3Ljc0LjEwLjExMSIsInBvcnQiOjIwNTIyLCJpZCI6IjBiNmE1NjNhLTdiZWUtNDc0MC04MmZmLTNkODEyNjI1MWVkOSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6IlwvdGVsZWdyYW1fQHNzd2lhIiwidGxzIjoibm9uZSIsInNuaSI6bnVsbCwiZnAiOm51bGx9
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FBIA_CHANEL%40JOKERRVPN&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#uf6k-%252540Fr33C0nfig%252520%25252F%252520%2525DA%2525A9%2525D8%2525A7%2525D9%252586%2525D9%252581%2525DB%25258C%2525DA%2525AF%252520%2525D8%2525B1%2525D8%2525A7%2525DB%25258C%2525DA%2525AF%2525D8%2525A7%2525D9%252586%252520🔗
+vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FBIA_CHANEL%40JOKERRVPN&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#0pdw-%252540Fr33C0nfig%252520%25252F%252520%2525DA%2525A9%2525D8%2525A7%2525D9%252586%2525D9%252581%2525DB%25258C%2525DA%2525AF%252520%2525D8%2525B1%2525D8%2525A7%2525DB%25258C%2525DA%2525AF%2525D8%2525A7%2525D9%252586%252520🔗
