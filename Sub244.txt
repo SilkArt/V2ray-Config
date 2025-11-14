@@ -93,10 +93,6 @@ vless://738c5a04-817a-4f50-b327-893595010155@all32-vip.f-sub.com:2434?security=r
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#4gyd-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20🔗
 vless://2de98c6e-319d-4fd1-81ba-82237c44ed36@c51.aminzing.lol:443?path=%2FZjm69xMidcGhvbKndEqiP5s42Ba&security=tls&alpn=h2&encryption=none&host=c51.aminzing.lol&fp=chrome&type=httpupgrade&sni=c51.aminzing.lol#27hv-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20🔗
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&security=&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#dmkb-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20🔗
-vless://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@speedtest.org:443?security=tls&sni=pqjeb.noah-shabane.com&path=/harman&type=ws&host=pqjeb.noah-shabane.com#Germany%2073%20dailyv2ry
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.226.100:59483?encryption=none&type=grpc#United%20States%2080%20dailyv2ry
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@192.241.251.158:59483?encryption=none&type=grpc#United%20States%2092%20dailyv2ry
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.4.30:59483?encryption=none&type=grpc#United%20States%2049%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.94.240:59483?encryption=none&type=grpc#United%20States%2053%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.120.133:59483?encryption=none&type=grpc#telegram%20%F0%9F%8D%8A%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@107.170.29.10:59483?encryption=none&type=grpc#United%20States%2026%20dailyv2ry
@@ -526,14 +522,6 @@ ssr://dXMubGlub2RlLnJicWlzLm1lOjE5MTU1OmF1dGhfc2hhMV92NDphZXMtMTkyLWN0cjp0bHMxLj
 ssr://NDUuNzkuNzkuMzc6NDQzOm9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpPV1EyWTJObFlXRXpOek5pWmpKak9HRmpZakl5WlRZd1lqWmhOVGhpWlRZPS8/b2Jmc3BhcmFtPSZyZW1hcmtzPThKJTJCSHV2Q2ZoN2hWVXkwME5TNDNPUzQzT1M0ek55MDJNams1JnByb3RvcGFyYW09
 ssr://OTQuMTAyLjU3LjE2MzoxMTcwODpvcmlnaW46YWVzLTI1Ni1jZmI6aHR0cF9zaW1wbGU6YzBWelkxQkNhVUZFT1Vza0prQTNPUT09Lz9vYmZzcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8mcmVtYXJrcz04SiUyQkhzJTJGQ2ZoN0ZPVEMwNU5DNHhNREl1TlRjdU1UWXpMVFk0T1RrJTNEJnByb3RvcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8=
 ssr://OTQuMTAyLjU3LjE2MzoxMTcwODpvcmlnaW46YWVzLTI1Ni1jZmI6aHR0cF9zaW1wbGU6YzBWelkxQkNhVUZFT1Vza0prQTNPUT09Lz9vYmZzcGFyYW09JnJlbWFya3M9OEolMkJIcyUyRkNmaDdGT1RDMDVOQzR4TURJdU5UY3VNVFl6TFRZNU1qRSUzRCZwcm90b3BhcmFtPQ==
-vless://a7e3db08-6fb7-4ffd-9415-59d1b5c6eeb6@148.113.207.224:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20CA%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://17108cd5-ddcf-4b6e-bb43-36a711a01366@74.119.193.40:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20HK%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://48bbb385-8877-4b2d-8f42-d81df401725d@5.253.43.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20IT%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://99f47914-23d8-4367-81bc-b4b759eb7505@45.83.22.118:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20JP%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://ddab5550-3938-4aba-943c-f23a08d07dc5@57.128.219.105:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20PL%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://97c02cbb-eef4-427c-bb25-a5720886b006@45.87.155.14:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20UA%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://5915f034-a53b-4b63-b0e7-b29194de3fe9@51.195.202.129:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20UK%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@zula.ir:443?security=tls&sni=colombia.sahel.us.kg&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=colombia.sahel.us.kg&encryption=none#Rayan - CF - C1 - 443
 
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@iplocation.net:443?security=tls&sni=colombia.parmis.us.kg&allowInsecure=1&type=ws&path=/?ed%3D2560&host=colombia.parmis.us.kg&encryption=none#Rayan - CF - C2 - 443
@@ -603,3 +591,15 @@ vless://f2004126-5865-4980-b6dd-2211dbaadf10@rayan-gc.negar.us.kg:443?security=t
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@rayan-gc.negar.us.kg:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=m-2-2.mitra.msnegar.eu.org&encryption=none#Rayan - GC - G2 - 443
 
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@rayan-gc.negar.us.kg:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=m-3.mitra.msnegar.eu.org&encryption=none#Rayan - GC - G3 - 443
+
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@rayan-gc.negar.us.kg:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=m-4-4.mitra.msnegar.eu.org&encryption=none#Rayan - GC - G4 - 443
+
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@rayan-gc.negar.us.kg:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=m-5-5.mitra.msnegar.eu.org&encryption=none#Rayan - GC - G5 - 443
+
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@rayan-gc.negar.us.kg:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=m-6-6.mitra.msnegar.eu.org&encryption=none#Rayan - GC - G6 - 443
+
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@rayan-gc.negar.us.kg:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=m-7-2.mitra.msnegar.eu.org&encryption=none#Rayan - GC - G7 - 443
+
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@rayan-gc.negar.us.kg:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=m-8-8.mitra.msnegar.eu.org&encryption=none#Rayan - GC - G8 - 443
+
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@rayan-gc.negar.us.kg:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=m-9-9.mitra.msnegar.eu.org&encryption=none#Rayan - GC - G9 - 443
