@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://3557aa39-7564-4362-9713-8a2dd2a98830@45.67.139.37:443?security=reality&encryption=none&pbk=k3h5nEAsMcyb9tVMeEepA4jd9JiPhcVCIVLPKWyao0E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speedsmart.net&sid=ed464ab7d7a8#BESTIIVPNBOT
 vless://dce7fc0d-e845-46fe-a86a-7bd9cd155127@antimage.fonixapp.org:16360?security=reality&encryption=none&pbk=KGQpRDmKoNFbZkJeJvRLnrIEkENAbf8PkZH41o9mD1Y&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=study.com&sid=4b79#BESTIIVPNBOT
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@193.124.18.13:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=snippets.mnmnm.netlib.re&fp=random&type=ws&sni=snippets.mnmnm.netlib.re#BESTIIVPNBOT
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@212.113.106.13:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=snippets.mnmnm.netlib.re&fp=random&type=ws&sni=snippets.mnmnm.netlib.re#BESTIIVPNBOT
@@ -603,3 +602,4 @@ vless://3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.17.25.45:8080?flow=&host=join-t
 vless://3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.16.89.160:8080?flow=&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&type=ws#@V2rayMiner
 vless://3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.17.25.45:8080?flow=&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&type=ws#@V2rayMiner
 vless://telegram-id-ArV2ray@www.speedtest.net:2095?flow=&host=6.V2.c.www.speedtest.net.dnschecker.tecH.&path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2095&type=ws#@V2rayMiner
+vless://5b055534-a162-4ee0-a3b0-1a9f74c334f7@104.21.19.124:8880?flow=&host=wEb.ArvAncLoud.Ir.DigIcYBer.CLIck.&path=%2Fnazan%2Fpedar%2Fsag&type=httpupgrade#@V2rayMiner
