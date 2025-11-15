@@ -202,14 +202,14 @@ vless://15b15cd3-d8c1-4c78-8e25-bd5a57fb9dfc@141.105.130.98:49938?security=none&
 
             <div class="cf-error-footer cf-wrapper">
     <p>
-      <span class="cf-footer-item">Cloudflare Ray ID: 99f1cc1e8efaefa7</span>
+      <span class="cf-footer-item">Cloudflare Ray ID: 99f224070d82cf23</span>
       <span class="cf-footer-separator">&bull;</span>
-      <span class="cf-footer-item">2025-11-15 21:21:16 UTC</span>
+      <span class="cf-footer-item">2025-11-15 22:21:17 UTC</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden">
         <span class="cf-footer-separator">&bull;</span>
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">64.236.153.145</span>
+        <span class="hidden" id="cf-footer-ip">68.220.61.162</span>
       </span>
       <span class="cf-footer-separator">&bull;</span>
       <span class="cf-footer-item"><span>Runs on </span><a rel="noopener noreferrer" href="https://workers.cloudflare.com?utm_source=error_footer" id="brand_link" target="_blank">Cloudflare Workers</a></span>
@@ -244,6 +244,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRk
 vmess://eyJhZGQiOiAiMTA0LjE5LjQ1Ljg0IiwgInYiOiAiMiIsICJwcyI6ICJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSIsICJwb3J0IjogMjA5NSwgImlkIjogIjdhNzM3ZjQxLWI3OTItNDI2MC05NGZmLTNkODY0ZGE2N2I4MCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJvbmVhLmZsaGEucnUiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
 vmess://eyJhZGQiOiAiMTA0LjI2LjUuNjciLCAidiI6ICIyIiwgInBzIjogIkBIb3BlX05ldC1qb2luLXVzLW9uLVRlbGVncmFtIiwgInBvcnQiOiA4NDQzLCAiaWQiOiAiNGJiYzkyZGItNWY4Zi00MmZkLTg3ZmYtNDQwZTkwNDBkMjNjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInRvdGFsLXJhY2lhbC1ldWdlbmUtaW5kZXgudHJ5Y2xvdWRmbGFyZS5jb20iLCAicGF0aCI6ICJ3d3cuZG9uZ3RhaXdhbmcuY29tIiwgInRscyI6ICJ0bHMifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjE5OS41OS4yNDMuMjI1IiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjNlZDlhYzUzLWNlMDAtNGFhNS05ZjdhLWEyZTZmYWIwZTE0YSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiVHJlZS5CbGFua3UuTWUiLCAicGF0aCI6ICIvd3NzNDk0MDYiLCAidGxzIjogInRscyIsICJzbmkiOiAiUm9ja3AuQmxhbmt1Lk1lIiwgImFscG4iOiAiaHR0cC8xLjEiLCAiZnAiOiAiY2hyb21lIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjEwNC4xNy4xMDYuMTUxIiwgInBvcnQiOiAiMjA5NiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNGJiYzkyZGItNWY4Zi00MmZkLTg3ZmYtNDQwZTkwNDBkMjNjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogInd3dy5kb25ndGFpd2FuZy5jb20iLCAiaG9zdCI6ICJ0b3RhbC1yYWNpYWwtZXVnZW5lLWluZGV4LnRyeWNsb3VkZmxhcmUuY29tIiwgInRscyI6ICJ0bHMifQ==
 vmess://eyJhZGQiOiI2Mi4xNDYuMjM1LjE5MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjZmM1YTg3Zi0zYzEzLTRlMjUtYjU1Ni0xNzZjZGQ2YjVjNmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI4MDExIiwicHMiOiJCRVNUSUlWUE5CT1Qg2KrYs9iqINmIINiu2LHbjNivIPCfkrIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJ5aWNodWVuZy5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InlpY2h1ZW5nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfjJAgUmFuZG9tIExvY2F0aW9uIiwic2N5IjoiYXV0byIsInNuaSI6InlpY2h1ZW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxNS4yMzUuODMuMjI4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsYW1tYWxhbmQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhIiwic2N5IjoiYXV0byIsInNuaSI6ImxhbW1hbGFuZC5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
@@ -602,4 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.155.231:2095?encryption=none&security=none&type=ws&host=index.arcane509.workers.dev&path=%2Fpm1awvw769za#VL-0821-070
 vless://49d598ee-4dfc-4001-95ca-99a5b6002e3c@tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev:443?encryption=none&security=tls&sni=tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev&type=ws&path=ws#VL-0814-02
 vless://5cd31a40-32d7-4db8-8772-79e0f55ffa21@172.67.185.98:2053?encryption=none&security=tls&sni=ion.api-music-fa.com&type=ws&host=ion.api-music-fa.com&path=%2FJ5aKLOY1R9ONWYCM#VL-0821-021
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@[::ffff:104.21.61.76]:2087?encryption=none&security=tls&sni=EMS.Arc-Time.Workers.DEV&alpn=h3&type=ws&host=ems.arc-time.workers.dev&path=%2Fz0aaecj1s11v#VL-0821-026
