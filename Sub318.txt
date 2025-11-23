@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.136.130:1331?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#VL-0901-057
 vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#VL-0901-058
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.15.185.70:990#VL-0901-059
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqT2NCUkZubVMzcWVtbEVlb1hYSVJm@78.129.140.11:443#VL-0901-060
@@ -603,3 +602,4 @@ vless://c35358bb-f11f-4348-ab1c-d4d2f8a982ec@57.128.28.249:443/?type=ws&encrypti
 vless://1e038ff0-8678-464c-af28-0612d0c92b96@57.128.31.215:443/?type=ws&encryption=none&host=pesu.minusober.com&path=%2Fpesu&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=pesu.minusober.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
 vless://c49ad197-37b6-40a7-971d-05e6e8a0bdac@57.128.123.242:443/?type=ws&encryption=none&host=tere.minusober.com&path=%2Ftere&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=tere.minusober.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
 vless://2c091d43-9eca-4677-b04a-f56c9d7b606b@152.228.242.27:443/?type=ws&encryption=none&host=auto.minusober.com&path=%2Fauto&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=auto.minusober.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
+vless://05ec2e61-efe9-4d5b-be47-5ba45a7890f8@213.32.90.17:2083/?type=tcp&encryption=none&sni=streaming.androidcentral.com&fp=chrome&security=reality&pbk=xTiUMLzUYkQ0tZFxQhQfnljI76_QtUIGrfcdyo1vGnA&sid=239F3F26#%40V2rayMiner
