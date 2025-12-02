@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://4e860869-8ca7-46cb-9460-7b15abbea4f2@209.38.225.172:443?encryption=none&security=none&type=grpc#VL-0905-011
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#VL-0905-012
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcUdONlZ5WXpORXE0TzJzMHpTT2pN@62.133.60.43:36456#VL-0905-013
 vless://ac90a749-1b0d-4978-a767-ab07b0f3f98f@104.18.255.7:80?encryption=none&security=none&type=ws&host=vpn13.sakeva2327.workers.dev&path=%2F#VL-0901-09
@@ -603,3 +602,4 @@ vless://5fbd0f92-1eb4-4e65-9c86-5c08a3950c57@91.107.159.81:443/?type=ws&encrypti
 vless://172bffdb-6cfd-420b-9c81-48bca134a32a@128.140.97.183:443/?type=ws&encryption=none&host=dashboard-user.github-land-pro-world-wiki-ped-discord-digikala-bale-meeting.com&path=33489%2FUnique&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=dashboard-user.github-land-pro-world-wiki-ped-discord-digikala-bale-meeting.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
 vless://2152a47a-265b-4b59-9e7f-8e92a66ddcac@drin2.irpodcasts.ir:36446/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tgju.org&fp=chrome&security=reality&pbk=qP4FiWub4j0vEEb53nu9Vv-XeLMcKRk0UcAe6qOYGDc&sid=324ed646#%40V2rayMiner
 vless://ec880e3c-2817-4b89-9887-ccc1fb7e3a52@54.36.114.43:443/?type=ws&encryption=none&host=steel.footballlovernews.com&path=%2Fsteel&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=steel.footballlovernews.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
+vless://19477f96-ea81-4f5b-93e7-119a171a7813@54.36.114.232:443/?type=ws&encryption=none&host=safe.footballlovernews.com&path=%2Fsafe&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=safe.footballlovernews.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
