@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://34ed9942-29a5-4886-be29-f152b278384e@198.41.209.2:443?path=%2F%40metavpnn&security=tls&encryption=none&alpn=h2,http/1.1&host=gard.starmc.ir&fp=firefox&type=ws&sni=gard.starmc.ir#@vpnclashfa - 79
+vless://34b4478d-6ea9-4973-9317-7dfc5dc33117@188.164.159.173:2053?encryption=none&security=tls&sni=connectingno.technewspaper.store&alpn=h2%2Chttp%2F1.1&type=grpc#@vpnclashfa - 78
+vless://34b4478d-6ea9-4973-9317-7dfc5dc33117@188.164.158.246:2053?encryption=none&security=tls&sni=connectingno.technewspaper.store&alpn=h2%2Chttp%2F1.1&type=grpc#@vpnclashfa - 77
+vless://34b4478d-6ea9-4973-9317-7dfc5dc33117@188.164.158.161:2053?encryption=none&security=tls&sni=connectingno.technewspaper.store&alpn=h2%2Chttp%2F1.1&type=grpc#@vpnclashfa - 76
+vless://34b4478d-6ea9-4973-9317-7dfc5dc33117@185.148.106.64:2053?encryption=none&security=tls&sni=connectingno.technewspaper.store&alpn=h2%2Chttp%2F1.1&type=grpc#@vpnclashfa - 75
+vless://34b4478d-6ea9-4973-9317-7dfc5dc33117@185.148.106.192:2053?encryption=none&security=tls&sni=connectingno.technewspaper.store&alpn=h2%2Chttp%2F1.1&type=grpc#@vpnclashfa - 74
 vless://347b41ac-a0ad-4b39-a335-ca42b624ba9c@89.221.224.166:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sourceforge.net#@vpnclashfa - 73
 vless://33173d48-d620-11ee-aaa8-00505603e70d@104.26.11.137:443?path=%2Fwebsocket&security=tls&encryption=none&host=st-fr-1.brocdn.com&fp=chrome&type=ws&sni=st-fr-1.brocdn.com#@vpnclashfa - 72
 vless://33002e6d-83b5-43b9-8501-bea7391cb1e1@38.60.208.238:8080?security=none&encryption=none&headerType=none&type=tcp#@vpnclashfa - 71
@@ -112,8 +118,8 @@ trojan://%40Noforcedheaven%40Noforcedheaven%40Noforcedheaven%40Noforcedheaven%40
 </head>
 <body>
 <div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiOThmNDc5ZjEtZGYzYy00NjI3LThjNDctMTZlNmRmNmEwNWI4IiwicGFnZV90aW1lIjoxNzY0ODYyMzA0LCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluLyIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6ImFwaS55ZWJla2hlLmxpbmsiLCJpcCI6IjEyOC4yNC4xNjEuMzgifQo=";</script>
-<script src="/bpeZbdCTr.js"></script>
+<script>window.park = "eyJ1dWlkIjoiZTBmZDMzNTgtNTQ5Mi00M2ZkLTk2MmMtYjJmY2M2ZTNjOGM2IiwicGFnZV90aW1lIjoxNzY0ODY2MjU4LCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluLyIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6ImFwaS55ZWJla2hlLmxpbmsiLCJpcCI6IjUyLjE2NS4yNTEuMjQyIn0K";</script>
+<script src="/bAIxfIJFv.js"></script>
 </body>
 </html>
 
@@ -597,9 +603,3 @@ vless://8e6c4dcd-9fd6-42c7-80f4-a6c46a13ca43@speed.cloudflare.com:80/?type=ws&en
                 <span class="code-label">Error code 522</span>
             </h1>
             <div>
-                Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&utm_campaign=paste.gg" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
-            </div>
-            <div class="mt-3">2025-12-04 15:32:05 UTC</div>
-        </header>
-        <div class="my-8 bg-gradient-gray">
-            <div class="w-240 lg:w-full mx-auto">
