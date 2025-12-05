@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://49fc52a8-64d5-4fbe-8049-97e9173b2937@185.146.173.58:8080/?type=ws&encryption=none&host=lc4.lebasnoo.ir.&path=%2Fservernett#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vless://34b7b2fe-f375-4e8e-810b-b6d7891e18db@190.93.247.56:8080/?type=ws&encryption=none&host=legendaryking.ir.www.speedtest.net.www.zula.ir.cloudflare.com.mozdozari.bUzz.&path=%2Ftelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%3Fed%3D2560#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@162.159.60.173:2082/?type=ws&encryption=none&host=UuOxTfVv27.eJaZeMaDaStE-KhOdScH.OrG&path=%2F#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://TELEGRAM-ServerNett@[2a01:4f8:c17:2cda::1]:29542/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://911e7942-4c0a-47f5-95e1-25740be19043@[2a01:7e01::f03c:94ff:fe2a:b2d]:5011/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
@@ -601,5 +603,3 @@ vless://0e0df131-29f5-4725-b9a3-7b1a6cac4c95@plr.strelkavpn.ru:8443?security=rea
 vless://f61d9aee-63b8-439e-bebf-afaa53c015fd@170.64.232.45:28899?security=reality&encryption=none&pbk=UcJ-s55xl9msAtzJcBghDUTSnyilzB6d7NpUfkHoQmY&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=s0.awsstatic.com#BESTIIVPNBOT
 vless://d29bde62-daa4-4804-9c69-6e23a4150006@45.92.176.55:1243?security=reality&encryption=none&pbk=jcJeCbLo5JtfveFIQLV6WNm1148XzxDc0Rzy336hXy0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rontgen.fasssst.ru&sid=ff3cef7cdcf9#BESTIIVPNBOT
 vless://f6f0191f-1edc-446b-b7d0-a90c19cf6a7a@213.165.60.21:443?security=reality&encryption=none&pbk=zqK2uIx7zaEDvGbKLX3Rqqt1PYVm8BFBUmS7jK9HF1M&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rsr.fasssst.ru&sid=f524d345e26375ca#BESTIIVPNBOT
-vless://f12bdba5-7ff5-4398-b859-08cdd7347fb3@rontgen.fasssst.ru:6443?security=reality&encryption=none&pbk=DsiKWpNmI1TkNyvhHmQzRwkvJ0aaZeShzYCZa559Hn0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rontgen.fasssst.ru&sid=30271931b36a50b5#BESTIIVPNBOT
-vless://74053bef-bd35-4654-b45b-a79f75a60637@rontgen.fasssst.ru:5343?security=reality&encryption=none&pbk=fmBHlPC9Fmxx3aMQnV-Hw9wAZpe7WJROiGa11lLXRjc&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rontgen.fasssst.ru&sid=e207433b2a#BESTIIVPNBOT
