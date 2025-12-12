@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://d512bf22-e4f5-46d6-b531-b398e25eef7e@172.66.156.81:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy&security=none&encryption=none&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%40HajmVPN_Config`
 vless://47ab07bb-442b-453d-a418-759516aecb23@usaa.fastlynew.hosting-ip.com:80?path=%2Ftelegeam-%40v2_city--%3Fed%3D2048&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#BESTIIVPNBOT
 vless://69d5763d-c66d-4958-b2d1-fc3ecabae32c@gr.sephost.de:8023?encryption=none&security=reality&sni=www.stackoverflow.com&fp=firefox&pbk=QHg_sq-uc2VPgb4qOTORPT2WFwnsEBmAdmFfywhBhVs&sid=0ae86db71378173b&type=tcp&headerType=none#join-%3Edoorvpn_bot%20%DA%A9%D8%AF%D8%AA%D8%AE%D9%81%DB%8C%D9%81%20%D8%B1%D9%88%D8%B2%20%D9%85%D8%A7%D8%AF%D8%B1%20%D8%AF%D8%B1%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84
 vless://69d5763d-c66d-4958-b2d1-fc3ecabae32c@ch.sepserver.de:8028?encryption=none&security=reality&sni=www.stackoverflow.com&fp=firefox&pbk=QHg_sq-uc2VPgb4qOTORPT2WFwnsEBmAdmFfywhBhVs&sid=0ae86db71378173b&type=tcp&headerType=none#join-%3Edoorvpn_bot%20%DA%A9%D8%AF%D8%AA%D8%AE%D9%81%DB%8C%D9%81%20%D8%B1%D9%88%D8%B2%20%D9%85%D8%A7%D8%AF%D8%B1%20%D8%AF%D8%B1%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84
@@ -603,3 +602,4 @@ vless://telegram-id-ArV2ray@www.speedtest.net:2095?flow=&host=6.V2.c.www.speedte
 vless://5b055534-a162-4ee0-a3b0-1a9f74c334f7@104.21.19.124:8880?flow=&host=wEb.ArvAncLoud.Ir.DigIcYBer.CLIck.&path=%2Fnazan%2Fpedar%2Fsag&type=httpupgrade#@V2rayMiner
 vless://434cd366-748e-4ec6-91f5-df027467ff8b@193.107.48.162:37829?flow=&headerType=http&host=fast.com&type=tcp#@V2rayMiner
 vless://ee0b7356-378b-4ee7-96f1-1f2fe17d0db3@185.146.173.85:80?flow=&host=www.speedtest.net.ftp.debian.org.nobitex.com.vigilantecollection.com.&path=2048%2FDaily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048&type=ws#@V2rayMiner
+vless://c346375a-8898-4a45-9455-6b5596dba898@198.41.193.40:80?flow=&host=www.speedtest.net.ftp.debian.org.nobitex.com.vigilantecollection.com.&path=2048%2FDaily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048&type=ws#@V2rayMiner
