@@ -3,20 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@64.110.25.130:989#Tel : @FreeV2rng
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ZVF4QjdzTUdwdGZGY3QycWsyRVNMZUNOTExoUlJ3WHJrTlpYQ2RMRll2WXdQUUQ@5.188.36.54:51348#%F0%9F%87%B9%F0%9F%87%B7%20TR%205.188.36.54%20%E2%97%88%20tcp%3A51348%20%E2%97%88%20G-Core%20Labs%20S.A.%20%E2%97%88%200f082
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3WlprQWJUZUhMdzhBS045bXJwRXowRktXTUNWNllXOWI2ODg4azJjcVRsMTBQaFQ@5.188.36.93:51348#%F0%9F%87%B9%F0%9F%87%B7%20TR%205.188.36.93%20%E2%97%88%20tcp%3A51348%20%E2%97%88%20G-Core%20Labs%20S.A.%20%E2%97%88%20fd7e5
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.123.101.241:989#%F0%9F%9A%AB%F0%9F%87%B9%F0%9F%87%B7%20TR%20185.123.101.241%20%E2%97%88%20tcp%3A989%20%E2%97%88%20Iksir%20Internet%20Hizmetleri%20A.S.%20%2F%20Oneprovider.com%20%E2%97%88%20822f2
-ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ@45.89.52.66:9000#%F0%9F%9A%AB%F0%9F%87%B9%F0%9F%87%B7%20TR%2045.89.52.66%20%E2%97%88%20tcp%3A9000%20%E2%97%88%20Stark%20Industries%20%E2%97%88%208d813
-ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ@45.89.52.66:9001#%F0%9F%9A%AB%F0%9F%87%B9%F0%9F%87%B7%20TR%2045.89.52.66%20%E2%97%88%20tcp%3A9001%20%E2%97%88%20Stark%20Industries%20%E2%97%88%202479b
-ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA@45.89.52.66:9003#%F0%9F%9A%AB%F0%9F%87%B9%F0%9F%87%B7%20TR%2045.89.52.66%20%E2%97%88%20tcp%3A9003%20%E2%97%88%20Stark%20Industries%20%E2%97%88%20d7578
-ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA@45.89.52.66:9005#%F0%9F%9A%AB%F0%9F%87%B9%F0%9F%87%B7%20TR%2045.89.52.66%20%E2%97%88%20tcp%3A9005%20%E2%97%88%20Stark%20Industries%20%E2%97%88%2099245
-ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ@45.89.52.66:9011#%F0%9F%9A%AB%F0%9F%87%B9%F0%9F%87%B7%20TR%2045.89.52.66%20%E2%97%88%20tcp%3A9011%20%E2%97%88%20Stark%20Industries%20%E2%97%88%2049da1
-ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ@45.89.52.66:9019#%F0%9F%9A%AB%F0%9F%87%B9%F0%9F%87%B7%20TR%2045.89.52.66%20%E2%97%88%20tcp%3A9019%20%E2%97%88%20Stark%20Industries%20%E2%97%88%205dad1
-ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ@45.89.52.66:9020#%F0%9F%9A%AB%F0%9F%87%B9%F0%9F%87%B7%20TR%2045.89.52.66%20%E2%97%88%20tcp%3A9020%20%E2%97%88%20Stark%20Industries%20%E2%97%88%20bb05b
-ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw@45.89.52.66:9025#%F0%9F%9A%AB%F0%9F%87%B9%F0%9F%87%B7%20TR%2045.89.52.66%20%E2%97%88%20tcp%3A9025%20%E2%97%88%20Stark%20Industries%20%E2%97%88%20ea6fc
-ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA@45.89.52.66:9027#%F0%9F%9A%AB%F0%9F%87%B9%F0%9F%87%B7%20TR%2045.89.52.66%20%E2%97%88%20tcp%3A9027%20%E2%97%88%20Stark%20Industries%20%E2%97%88%20beeb2
-ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw@45.89.52.66:9029#%F0%9F%9A%AB%F0%9F%87%B9%F0%9F%87%B7%20TR%2045.89.52.66%20%E2%97%88%20tcp%3A9029%20%E2%97%88%20Stark%20Industries%20%E2%97%88%20fbaa5
 ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg@45.89.52.66:9030#%F0%9F%9A%AB%F0%9F%87%B9%F0%9F%87%B7%20TR%2045.89.52.66%20%E2%97%88%20tcp%3A9030%20%E2%97%88%20Stark%20Industries%20%E2%97%88%20a64d1
 ss://YWVzLTI1Ni1jZmI6Rkc1ZGRMc01QYlY1Q3V0RQ@45.89.52.66:9050#%F0%9F%9A%AB%F0%9F%87%B9%F0%9F%87%B7%20TR%2045.89.52.66%20%E2%97%88%20tcp%3A9050%20%E2%97%88%20Stark%20Industries%20%E2%97%88%20030d6
 ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ@45.89.52.66:9054#%F0%9F%9A%AB%F0%9F%87%B9%F0%9F%87%B7%20TR%2045.89.52.66%20%E2%97%88%20tcp%3A9054%20%E2%97%88%20Stark%20Industries%20%E2%97%88%206790d
@@ -65,7 +51,7 @@ vless://8e6c4dcd-9fd6-42c7-80f4-a6c46a13ca43@speed.cloudflare.com:80/?type=ws&en
             <div>
                 Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&utm_campaign=paste.gg" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
             </div>
-            <div class="mt-3">2025-12-20 08:33:37 UTC</div>
+            <div class="mt-3">2025-12-20 10:27:37 UTC</div>
         </header>
         <div class="my-8 bg-gradient-gray">
             <div class="w-240 lg:w-full mx-auto">
@@ -145,12 +131,12 @@ vless://8e6c4dcd-9fd6-42c7-80f4-a6c46a13ca43@speed.cloudflare.com:80/?type=ws&en
 
         <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
     <p class="text-13">
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9b0dcb493c7e22ea</strong></span>
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9b0e7245793c99a0</strong></span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">68.220.62.155</span>
+        <span class="hidden" id="cf-footer-ip">104.209.5.146</span>
         <span class="cf-footer-separator sm:hidden">&bull;</span>
       </span>
       <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&#38;utm_campaign=paste.gg" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -276,18 +262,17 @@ vmess://eyJhZGQiOiI4LjIxMC4xNDAuMjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vmess://eyJhZGQiOiI0Ny44My4xOC4xMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIxNzZiZjFkZC02NDdmLTRjMDktODkyZS01ZjkyMjNkYzg2MTciLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiMzY5NjgiLCJwcyI6IvCfh63wn4ewIEhvbmcgS29uZyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxNjEuMjQ4LjMwLjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMTAwNmE5MjgtMjAyMS00YTNiLWJlYjUtZDU4NTNjNjI4MWM1IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDA4NiIsInBzIjoi8J+Hu/Cfh7Mg2YjbjNiq2YbYp9mFIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJmYXBlbmcub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmYXBlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIEZhc3QiLCJzY3kiOiJhdXRvIiwic25pIjoiZmFwZW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?sni=api.avito.ru&allowInsecure=1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AE%F0%9F%87%B9IT_2%20%F0%9F%A7%AD%204.6MB%2Fs#کانفیگ_پرسرعت
-vless://7648af05-f18f-4d16-ad53-1781370b3596@104.17.148.22:443?security=tls&type=ws&path=%2F&host=lingering-scene-42dd.bolij51053.workers.dev&sni=lingering-scene-42dd.bolij51053.workers.dev&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_6%20%F0%9F%A7%AD%204.8MB%2Fs#کانفیگ_پرسرعت
-vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@172.67.193.88:443?security=tls&type=ws&path=%2Fvless.hubp.de&host=hemmat.iranmap.workers.dev&alpn=http%2F1.1&sni=hemmat.iranmap.workers.dev&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_7%20%F0%9F%A7%AD%204.5MB%2Fs#کانفیگ_پرسرعت
-vless://9e460075-dcb2-504a-b3d9-aab5c3095442@185.140.14.166:8443?security=reality&type=tcp&sni=www.microsoft.com&fp=chrome&sid=3471fa2412678660&pbk=qdcM4h1uoHcpGw_QnU99NnUXgcjDFyoE-E1_Ili3Xgo&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_8%20%F0%9F%A7%AD%204.4MB%2Fs#کانفیگ_پرسرعت
-vless://0a587061-6ccb-407c-86b8-c7d78b6bee5e@85.209.154.133:4443?security=reality&type=tcp&sni=github.com&fp=chrome&flow=xtls-rprx-vision&sid=aa7e96542880027a&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%BA%F0%9F%87%B8US_1%20%F0%9F%A7%AD%205.0MB%2Fs#کانفیگ_پرسرعت
-vless://0a587061-6ccb-407c-86b8-c7d78b6bee5e@5.129.236.170:4443?security=reality&type=tcp&sni=github.com&fp=chrome&flow=xtls-rprx-vision&sid=aa7e96542880027a&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B3%F0%9F%87%B1NL_6%20%F0%9F%A7%AD%207.4MB%2Fs#کانفیگ_پرسرعت
-vless://309fa273-6579-4cb2-9143-7cad50401eba@45.67.228.11:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7cad5040&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B2%F0%9F%87%A9MD_1%20%F0%9F%A7%AD%205.5MB%2Fs#کانفیگ_پرسرعت
-vless://495c0dad-3268-4470-ac57-887c5089db0d@162.159.152.2:443?security=tls&type=ws&path=%2F&host=ziyong.boringdad.netlib.re&sni=ziyong.boringdad.netlib.re&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_9%20%F0%9F%A7%AD%205.4MB%2Fs#کانفیگ_پرسرعت
-vless://495c0dad-3268-4470-ac57-887c5089db0d@visa.com:443?security=tls&type=ws&path=%2F&host=asuka.boringdad.netlib.re&sni=asuka.boringdad.netlib.re&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_10%20%F0%9F%A7%AD%205.2MB%2Fs#کانفیگ_پرسرعت
-vless://495c0dad-3268-4470-ac57-887c5089db0d@162.159.153.2:443?security=tls&type=ws&path=%2F&host=ziyong.boringdad.netlib.re&sni=ziyong.boringdad.netlib.re&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_11%20%F0%9F%A7%AD%204.9MB%2Fs#کانفیگ_پرسرعت
-vless://495c0dad-3268-4470-ac57-887c5089db0d@162.159.152.2:443?security=tls&type=ws&path=%2F&host=asuka.boringdad.netlib.re&sni=asuka.boringdad.netlib.re&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_12%20%F0%9F%A7%AD%204.6MB%2Fs#کانفیگ_پرسرعت
-vless://Parsashonam-Bot-41@104.17.147.22:8080?security=none&type=ws&path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&host=Fi.Parsashonam.CfD.&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AB%F0%9F%87%AEFI_2%20%F0%9F%A7%AD%204.2MB%2Fs#کانفیگ_پرسرعت
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?sni=api.avito.ru&allowInsecure=1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AE%F0%9F%87%B9IT_1%20%F0%9F%A7%AD%204.4MB%2Fs#کانفیگ_پرسرعت
+trojan://POORIARED@172.67.134.185:443?sni=reDfRee8.REDFree8.ir&allowInsecure=1&type=ws&path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_5%20%F0%9F%A7%AD%204.4MB%2Fs#کانفیگ_پرسرعت
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?sni=api.avito.ru&allowInsecure=1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AE%F0%9F%87%B9IT_2%20%F0%9F%A7%AD%204.5MB%2Fs#کانفیگ_پرسرعت
+vless://18b60966-fffb-49be-aa71-4062e0198d90@arda156.ardaserver.site:40001?security=none&type=tcp#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_2%20%F0%9F%A7%AD%205.2MB%2Fs#کانفیگ_پرسرعت
+vless://e258977b-e413-4718-a3af-02d75492c349@172.64.149.145:8443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=yyds.x-aniu----hk.netlib.re&sni=yyds.x-aniu----hk.netlib.re&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_3%20%F0%9F%A7%AD%204.3MB%2Fs#کانفیگ_پرسرعت
+vless://495c0dad-3268-4470-ac57-887c5089db0d@162.159.153.2:443?security=tls&type=ws&path=%2F&host=ziyong.boringdad.netlib.re&sni=ziyong.boringdad.netlib.re&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_4%20%F0%9F%A7%AD%204.5MB%2Fs#کانفیگ_پرسرعت
+vless://8dbedc60-581e-4637-a942-b84544e6e8fe@tr.pineappled.org:443?security=reality&type=tcp&sni=google.com&fp=chrome&flow=xtls-rprx-vision&sid=9eb31eb7572c0882&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B9%F0%9F%87%B7TR_1%20%F0%9F%A7%AD%205.1MB%2Fs#کانفیگ_پرسرعت
+vless://495c0dad-3268-4470-ac57-887c5089db0d@visa.com:443?security=tls&type=ws&path=%2F&host=ziyong.boringdad.netlib.re&sni=ziyong.boringdad.netlib.re&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_6%20%F0%9F%A7%AD%204.9MB%2Fs#کانفیگ_پرسرعت
+vless://0a587061-6ccb-407c-86b8-c7d78b6bee5e@5.129.236.170:4443?security=reality&type=tcp&sni=github.com&fp=chrome&flow=xtls-rprx-vision&sid=aa7e96542880027a&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B3%F0%9F%87%B1NL_6%20%F0%9F%A7%AD%205.0MB%2Fs#کانفیگ_پرسرعت
+vless://29419eea-2d3e-4e17-8114-7ba0c1e7e666@pl01.tweopi.ru:443?security=reality&type=tcp&sni=web.max.ru&fp=chrome&flow=xtls-rprx-vision&pbk=NP-Ns_Yd3d9X1VtuLduEucJrX-HhaYpPJr3ADo1ZywU&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B5%F0%9F%87%B1PL_1%20%F0%9F%A7%AD%205.3MB%2Fs#کانفیگ_پرسرعت
+vless://8dc6e286-51a4-49d5-e642-c462c9c08cba@usaa.fastlynew.hosting-ip.com:80?security=none&type=ws&path=%2Ftelegeam-%40v2_city--%3Fed%3D2048&host=mojhsjd.global.ssl.fastly.net&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_7%20%F0%9F%A7%AD%206.4MB%2Fs#کانفیگ_پرسرعت
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FBIA_CHANEL%40JOKERRVPN&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#uf6k-%252540Fr33C0nfig%252520%25252F%252520%2525DA%2525A9%2525D8%2525A7%2525D9%252586%2525D9%252581%2525DB%25258C%2525DA%2525AF%252520%2525D8%2525B1%2525D8%2525A7%2525DB%25258C%2525DA%2525AF%2525D8%2525A7%2525D9%252586%252520🔗
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FBIA_CHANEL%40JOKERRVPN&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#0pdw-%252540Fr33C0nfig%252520%25252F%252520%2525DA%2525A9%2525D8%2525A7%2525D9%252586%2525D9%252581%2525DB%25258C%2525DA%2525AF%252520%2525D8%2525B1%2525D8%2525A7%2525DB%25258C%2525DA%2525AF%2525D8%2525A7%2525D9%252586%252520🔗
 vless://d300ae15-2ba2-4f91-b1b0-b4510912e4cc@104.18.26.90:443?encryption=none&security=tls&sni=2free2.aparatir.xyz&fp=randomized&type=ws&host=2free2.aparatir.xyz&path=%2Fadmin#kwj9-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20🔗
@@ -300,11 +285,6 @@ vless://738c5a04-817a-4f50-b327-893595010155@all32-vip.f-sub.com:2434?security=r
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#4gyd-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20🔗
 vless://2de98c6e-319d-4fd1-81ba-82237c44ed36@c51.aminzing.lol:443?path=%2FZjm69xMidcGhvbKndEqiP5s42Ba&security=tls&alpn=h2&encryption=none&host=c51.aminzing.lol&fp=chrome&type=httpupgrade&sni=c51.aminzing.lol#27hv-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20🔗
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&security=&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#dmkb-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20🔗
-vless://34ad014b-23dd-438b-9e5f-d2994578033f@103.35.189.146:443?path=%2Fyebnszws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=ya.ru#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
-vless://15efde17-96f5-4cc5-b4d5-1d0ef1e03b6e@194.182.79.163:45153?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85`
-vless://eb5e2adb-8466-450f-a962-83b3228efa2d@test2.amin8263.ir:2095?security=none&type=ws&path=%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048&host=test3.amin8263.ir&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_1%20%F0%9F%A7%AD%205.4MB%2Fs`
-vless://d32bcbcd-c7c0-4f27-878b-238a7a8fd062@46.224.114.237:32284?security=none&type=ws&path=%2F%40napsternetv20%40napsternetv20%40napsternetv20&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_5%20%F0%9F%A7%AD%205.7MB%2Fs`
-vless://eb5e2adb-8466-450f-a962-83b3228efa2d@46.224.119.100:2095?security=none&type=ws&path=%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048&host=test3.amin8263.ir&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_6%20%F0%9F%A7%AD%207.2MB%2Fs`
 vless://eb5e2adb-8466-450f-a962-83b3228efa2d@172.67.146.171:2095?security=none&type=ws&path=%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048&host=test3.amin8263.ir&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_7%20%F0%9F%A7%AD%204.3MB%2Fs`
 vless://651ade7f-8c13-4286-8bae-ce49b07e1c4a@46.224.114.237:32284?security=none&type=ws&path=%2F%40napsternetv20%40napsternetv20%40napsternetv20&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_4%20%F0%9F%A7%AD%205.5MB%2Fs`
 vless://e258977b-e413-4718-a3af-02d75492c349@162.159.2.134:2087?security=tls&type=ws&path=%2F&host=ww.x-aniu---tw.netlib.re&sni=ww.x-aniu---tw.netlib.re&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_6%20%F0%9F%A7%AD%204.8MB%2Fs`
@@ -603,3 +583,23 @@ vless://f2004126-5865-4980-b6dd-2211dbaadf10@jquery.com:443?security=tls&sni=chi
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@seminarsinmcb.faculty.ucdavis.edu:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&type=ws&path=/?ed%3D2560&host=harifet-manam-1.com&encryption=none#Rayan - FL - F1 - 443
 
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@bwdraper.faculty.ucdavis.edu:443?security=tls&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&type=ws&path=/?ed%3D2560&host=harifet-manam-2.com&encryption=none#Rayan - FL - F2 - 443
+
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@zmaoz.faculty.ucdavis.edu:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&type=ws&path=/?ed%3D2560&host=harifet-manam-3.com&encryption=none#Rayan - FL - F3 - 443
+
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@pscresearch.faculty.ucdavis.edu:443?security=tls&sni=pscresearch.faculty.ucdavis.edu&allowInsecure=1&type=ws&path=/?ed%3D2560&host=harifet-manam-4.com&encryption=none#Rayan - FL - F4 - 443
+
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@seminarsinmcb.faculty.ucdavis.edu:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&type=ws&path=/?ed%3D2560&host=harifet-manam-5.com&encryption=none#Rayan - FL - F5 - 443
+
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@bwdraper.faculty.ucdavis.edu:443?security=tls&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&type=ws&path=/?ed%3D2560&host=harifet-manam-6.com&encryption=none#Rayan - FL - F6 - 443
+
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@zmaoz.faculty.ucdavis.edu:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&type=ws&path=/?ed%3D2560&host=harifet-manam-7.com&encryption=none#Rayan - FL - F7 - 443
+
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@pscresearch.faculty.ucdavis.edu:443?security=tls&sni=pscresearch.faculty.ucdavis.edu&allowInsecure=1&type=ws&path=/?ed%3D2560&host=harifet-manam-8.com&encryption=none#Rayan - FL - F8 - 443
+
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@seminarsinmcb.faculty.ucdavis.edu:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&type=ws&path=/?ed%3D2560&host=harifet-manam-9.com&encryption=none#Rayan - FL - F9 - 443
+
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@bwdraper.faculty.ucdavis.edu:443?security=tls&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&type=ws&path=/?ed%3D2560&host=harifet-manam-10.com&encryption=none#Rayan - FL - F10 - 443
+
+
+
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@zmaoz.faculty.ucdavis.edu:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=harifet-manam-1.com&type=ws#Rayan - FL - F1 - 80
