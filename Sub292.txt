@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-                    </div>
-                    
                 </div>
             </div><!-- /.section -->
     
@@ -603,3 +601,5 @@ vless://c51fac89-9c57-4416-b48b-c780d6710605@ca.srv.oplcdn.link:8443?security=re
                 </div>
             </div><!-- /.section -->
     
+            <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+    <p class="text-13">

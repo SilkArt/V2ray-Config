@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-    })
-  }
 </script>
 <!--<![endif]-->
 
@@ -603,3 +601,5 @@ vless://a19a0922-24c6-4d61-f58d-44589eb1dbd0@Www.Speedtest.net:2095?type=httpupg
   }
 </script>
 <!--<![endif]-->
+
+</head>
