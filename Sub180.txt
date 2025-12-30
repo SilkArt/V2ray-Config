@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+        </div><!-- /#cf-error-details -->
     </div><!-- /#cf-wrapper -->
 
      <script>
@@ -602,4 +603,3 @@ vless://db54c2ca-abe2-19ae-9abf-46a4aa1598f8@de.u-team.ir:6747?security=&encrypt
 vless://db54c2ca-abe2-19ae-9abf-46a4aa1598f8@de.u-team.ir:6750?security=none&encryption=none&host=s7r.ir&headerType=none&type=tcp#🇫🇮FI_6103_@Surfboardv2ray
 vless://db54c2ca-abe2-19ae-9abf-46a4aa1598f8@de.u-team.ir:8989?mode=gun&security=reality&encryption=none&pbk=qdAbPwxdT1Jd6gou8moNKiPocp5yGcan0JQpBUHTNgQ&fp=chrome&type=grpc&serviceName=grpc-reality&sni=tgju.org&sid=ce8b0dc11675f0a4#🇫🇮FI_6104_@Surfboardv2ray
 vless://db666837-aa7c-4cc9-9070-7cd3564225a0@abaddon.fonixapp.org:58604?security=reality&encryption=none&pbk=ZR7zKH8el4lbbty4_54z4XWV8BRvTup86v977iM_DUw&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=study.com&sid=12#🇸🇪SE_6105_@Surfboardv2ray
-vless://db967ff3-7613-4198-ed55-83b20f2f97ea@usaa.fastlynew.hosting-ip.com:80?path=/&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#🇺🇸US_6106_@Surfboardv2ray
