@@ -545,6 +545,13 @@ hysteria2://a2c3fe27-2df2-4acb-92a1-2c56ef6ca896@kaikaixinxin-ca.legeth.xyz:443?
 hysteria2://d5905353-0efe-47a0-90e8-276991af4c87@ae.1010520.xyz:1001?security=tls&insecure=1&sni=ae.1010520.xyz#🆔wxgmrjdcc%20🔒%20HY2-UDP-N/A%20❔%20XX%20down
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#📌%20SUPPORT-CONTACT @HiNGROUP.T.ME
+hy2://37ff019f4a35e6da@rplcehysttya6.airlineshoma.com:443/?obfs=salamander&obfs-password=6c80ade6#irancpi2
+
+hysteria2://6b389472-9094-4c8a-a780-3d371b2eade5@hyshdfy8312.makingirangreatagain.com:25444?hiddify=1&obfs=salamander&obfs-password=3JuQOL32nT5rUt1nNxAX&sni=hyshdfy8312.makingirangreatagain.com#Hysteria2CPI
+
+tuic://6b389472-9094-4c8a-a780-3d371b2eade5:6b389472-9094-4c8a-a780-3d371b2eade5@hyshdfy8312.makingirangreatagain.com:35403?congestion_control=cubic&udp_relay_mode=native&sni=hyshdfy8312.makingirangreatagain.com&alpn=h3#TUICCPI
+
+
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@37.187.197.252:4380?obfs=salamander&obfs-password=irvless&sni=withoutme.hbmc.net#IRVLESS-FREE-HYSTERIA1
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@45.155.76.159:4380?obfs=salamander&obfs-password=irvless&sni=withoutme.hbmc.net#IRVLESS-FREE-HYSTERIA2
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@45.155.76.171:4380?obfs=salamander&obfs-password=irvless&sni=withoutme.hbmc.net#IRVLESS-FREE-HYSTERIA3
@@ -596,10 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:804#%F0%9F%92
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@141.95.98.94:443#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.68.206.229:8118#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@198.244.231.28:443#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.59.21.131:443#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vmess://eyJhZGQiOiIxNDcuMTM1LjIwOC4xNzgiLCJhaWQiOiIwIiwiaG9zdCI6IjEyMy41OC4xOTcuNzAiLCJpZCI6ImRiNTNiYzI5LTBmNjItNGNkMy04MzJiLTg1NDk5YzkyNzhhOCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjM4NjEyIiwicHMiOiLwn5K7IENoYW5uZWwg8J+GlCA6IEBBbGllblZQTjQwMiDwn5G9Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@146.59.111.212:443#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.170.224:443#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.171.67:443#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@149.202.82.172:8080#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@149.202.82.172:8008#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
