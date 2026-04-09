@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+                        <p><strong>If you are the owner of this website:</strong><br />you should <a href="https://www.cloudflare.com/login?utm_source=error_100x" target="_blank">login to Cloudflare</a> and change the DNS A records for paste.gg to resolve to a different IP address.</p>
+                    </div>
                     
                 </section>
                 
@@ -30,12 +32,12 @@
     </div>
 </div> <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
     <p class="text-13">
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9e9d129f9ce63976</strong></span>
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9e9d5ea63bfdec2e</strong></span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">172.70.38.196</span>
+        <span class="hidden" id="cf-footer-ip">162.159.104.123</span>
         <span class="cf-footer-separator sm:hidden">&bull;</span>
       </span>
       <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -100,11 +102,11 @@ b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove(
                     </h1>
                     <span
                         class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed"
-                        >Ray ID: 9e9d12a1383e2f19 &bull;</span
+                        >Ray ID: 9e9d5ea77b6e0864 &bull;</span
                     >
                     <span
                         class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed"
-                        >2026-04-09 22:50:47 UTC</span
+                        >2026-04-09 23:42:41 UTC</span
                     >
                     <h2
                         class="text-gray-600 leading-1.3 text-3xl lg:text-2xl font-light"
@@ -179,12 +181,12 @@ b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove(
     </div>
 </div> <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
     <p class="text-13">
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9e9d12a1383e2f19</strong></span>
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9e9d5ea77b6e0864</strong></span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">172.71.223.189</span>
+        <span class="hidden" id="cf-footer-ip">162.159.104.177</span>
         <span class="cf-footer-separator sm:hidden">&bull;</span>
       </span>
       <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -249,11 +251,11 @@ b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove(
                     </h1>
                     <span
                         class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed"
-                        >Ray ID: 9e9d12a2c9d42f19 &bull;</span
+                        >Ray ID: 9e9d5ea8ce7f6206 &bull;</span
                     >
                     <span
                         class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed"
-                        >2026-04-09 22:50:48 UTC</span
+                        >2026-04-09 23:42:42 UTC</span
                     >
                     <h2
                         class="text-gray-600 leading-1.3 text-3xl lg:text-2xl font-light"
@@ -328,12 +330,12 @@ b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove(
     </div>
 </div> <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
     <p class="text-13">
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9e9d12a2c9d42f19</strong></span>
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9e9d5ea8ce7f6206</strong></span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">172.71.223.189</span>
+        <span class="hidden" id="cf-footer-ip">172.69.7.150</span>
         <span class="cf-footer-separator sm:hidden">&bull;</span>
       </span>
       <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -601,5 +603,3 @@ vless://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality
 vless://21f78714-2df6-4757-9fa5-f583eb0290cf@194.110.246.61:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=okKUcvjT68odjfLWEZ47XopjP3AqHfbC4jsxfN2-i30&sni=google.com#VPNKEY-United
 vless://3058e698-61fd-4d12-95bc-f1fe4c071713@104.17.147.22:443?path=%2FRklUHeautH5uvnSB%2FNTQuMTY5LjIyOS4xODg&security=tls&encryption=none&host=hOZori.iR&type=ws&sni=hOZori.iR#%40v2Meli
 vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?path=%2FTelegram%40V2ray_Alpha&security=tls&alpn=http%2F1.1&encryption=none&host=hozori.ir&type=ws&sni=hOZori.iR#%40v2Meli
-vless://3d9f9671-a9c0-4f05-bf9b-0ab1f1b44654@109.237.99.63:54899?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40v2Meli
-vless://40090834-1406-4c25-9c51-326d897e9aab@sir.serverpower657.fun:26810?type=tcp&security=none#%40v2Meli
