@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-ssr://Y2RuMDEuMjVrMmw4Lm1laXR1YW44OC5jb206MjIwMjphdXRoX2FlczEyOF9tZDU6cmM0LW1kNTp0bHMxLjJfdGlja2V0X2F1dGg6WkdreE5WQlcvP29iZnNwYXJhbT1NekZrTkRFeU56VTNMbVJ2ZFhscGJpNWpiMjAlM0QmcmVtYXJrcz04SiUyQkhyZkNmaDdCSVN5MDBNeTR5TlRVdU1URTVMakl4TFRRMU5URSUzRCZwcm90b3BhcmFtPQ==
 ssr://Y2RuMDEuMjVrMmw4Lm1laXR1YW44OC5jb206MjExMjphdXRoX2FlczEyOF9tZDU6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpaR2t4TlZCVy8/b2Jmc3BhcmFtPU16RmtOREV5TnpVM0xtUnZkWGxwYmk1amIyMCUzRCZyZW1hcmtzPThKJTJCSHJmQ2ZoN0JJU3kwME15NHlOVFV1TVRFNUxqSXhMVFExTlRJJTNEJnByb3RvcGFyYW09
 ssr://Y2RuMDEuMjVrMmw4Lm1laXR1YW44OC5jb206MjYwMjphdXRoX2FlczEyOF9tZDU6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpaR2t4TlZCVy8/b2Jmc3BhcmFtPU16RmtOREV5TnpVM0xtUnZkWGxwYmk1amIyMCUzRCZyZW1hcmtzPThKJTJCSHJmQ2ZoN0JJU3kwME15NHlOVFV1TVRFNUxqSXhMVFExTlRNJTNEJnByb3RvcGFyYW09
 ssr://Y2RuMDEuMjVrMmw4Lm1laXR1YW44OC5jb206MjcwMjphdXRoX2FlczEyOF9tZDU6cmM0LW1kNTpwbGFpbjpaR2t4TlZCVy8/b2Jmc3BhcmFtPU16RmtOREV5TnpVM0xtUnZkWGxwYmk1amIyMCUzRCZyZW1hcmtzPThKJTJCSHJmQ2ZoN0JJU3kwME15NHlOVFV1TVRFNUxqSXhMVFExTlRRJTNEJnByb3RvcGFyYW09
@@ -603,3 +602,4 @@ vless://05ec2e61-efe9-4d5b-be47-5ba45a7890f8@213.32.90.17:2083/?type=tcp&encrypt
 vless://19a3a5fc-640b-47af-aebb-7335c1c0a42c@france.alighan.ir:2083/?type=ws&encryption=none&host=france.alighan.ir&path=%2Fvbd&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=france.alighan.ir&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
 vless://f4859fc9-dc44-11ee-b9ba-00505603e70d@193.70.90.159:80/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2Fwebsocket&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
 vless://43e00e4c-2316-4dc9-8262-cef31886dc56@51.77.108.58:443/?type=ws&encryption=none&host=marly.toptechnonews.com&path=%2Fnimws&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=marly.toptechnonews.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
+vless://cede337b-9ea5-40e5-a8b1-690bf49ff41d@57.128.162.68:443/?type=ws&encryption=none&host=storeships.toptechnonews.com&path=%2Fnimws%3Fed%3D2560%40V2ray_Alpha&ed=2560&eh=Sec-Websocket-Protocol&security=tls&sni=storeships.toptechnonews.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
