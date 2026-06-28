@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-    </div><!-- /#cf-wrapper -->
-
-     <script>
-    window._cf_translation = {};
-    
-    
-  </script> 
-</body>
-</html>_505_@Surfboardv2ray
 vless://182c2002-2157-41e7-9a50-27f254dd5138@104.16.0.94:2083?path=/&security=tls&encryption=none&insecure=0&host=ez-4e9aac.ezaccess100ab47.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-4e9aac.ezaccess100ab47.workers.dev#🇨🇦CA_506_@Surfboardv2ray
 vless://18323cf8-8def-4456-9ac7-ec5cb7cceae1@fr.eorqen.ir:8086?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#🇫🇷FR_507_@Surfboardv2ray
 vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?security=reality&encryption=none&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=4d3ff920673f7534#🇷🇺RU_508_@Surfboardv2ray
@@ -603,3 +594,12 @@ vless://1e5dc41f-6d94-4cd9-961d-cb57bc2e55d9@olds-3.lubbs.de:2086?encryption=non
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
 <head>
 <title>Worker threw exception | ip-api.colaho6124.workers.dev | Cloudflare</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
+<style>body{margin:0;padding:0}</style>
+

@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@ru.faygo.bot:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#🇷🇺RU_1985_@Surfboardv2ray
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@ru.faygo.bot:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#🇷🇺RU_1986_@Surfboardv2ray
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@ru.faygo.bot:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#🇷🇺RU_1987_@Surfboardv2ray
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@se.faygo.bot:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#🇸🇪SE_1988_@Surfboardv2ray
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@se.faygo.bot:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#🇸🇪SE_1989_@Surfboardv2ray
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@se.faygo.bot:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#🇸🇪SE_1990_@Surfboardv2ray
-vless://8d10b2cc-da89-48df-8e9f-fb7bdfcb5d8d@179.237.75.180:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&encryption=none&authority=&pbk=uAz7U1Ol10N4rEoPfXuk3aBrl1Zd-oWTSEym67gVBHc&fp=chrome&spx=/84wG7FZaxJkyTg1&type=grpc&serviceName=&sni=promotion.yahoo.com&sid=633f51cc1419b0#🇨🇭CH_1991_@Surfboardv2ray
-vless://8d10b2cc-da89-48df-8e9f-fb7bdfcb5d8d@179.237.75.180:443?mode=gun&security=reality&encryption=none&pbk=uAz7U1Ol10N4rEoPfXuk3aBrl1Zd-oWTSEym67gVBHc&fp=chrome&spx=/84wG7FZaxJkyTg1&type=grpc&sni=promotion.yahoo.com&sid=633f51cc1419b0#🇨🇭CH_1992_@Surfboardv2ray
-vless://8d10b2cc-da89-48df-8e9f-fb7bdfcb5d8d@179.237.75.180:443?mode=gun&security=reality&encryption=none&pbk=uAz7U1Ol10N4rEoPfXuk3aBrl1Zd-oWTSEym67gVBHc&fp=chrome&spx=/84wG7FZaxJkyTg1&type=grpc&sni=promotion.yahoo.com&sid=633f51cc1419b0#🇨🇭CH_1993_@Surfboardv2ray
 vless://8d10b2cc-da89-48df-8e9f-fb7bdfcb5d8d@179.237.75.180:443?mode=gun&security=reality&encryption=none&pbk=uAz7U1Ol10N4rEoPfXuk3aBrl1Zd-oWTSEym67gVBHc&fp=chrome&spx=/84wG7FZaxJkyTg1&type=grpc&sni=promotion.yahoo.com&sid=633f51cc1419b0#🇨🇭CH_1994_@Surfboardv2ray
 vless://8d10b2cc-da89-48df-8e9f-fb7bdfcb5d8d@179.237.75.180:443?mode=gun&security=reality&encryption=none&pbk=uAz7U1Ol10N4rEoPfXuk3aBrl1Zd-oWTSEym67gVBHc&fp=chrome&spx=/84wG7FZaxJkyTg1&type=grpc&sni=promotion.yahoo.com&sid=633f51cc1419b0#🇨🇭CH_1995_@Surfboardv2ray
 vless://8d10b2cc-da89-48df-8e9f-fb7bdfcb5d8d@179.237.75.180:443?mode=gun&security=reality&encryption=none&pbk=uAz7U1Ol10N4rEoPfXuk3aBrl1Zd-oWTSEym67gVBHc&fp=chrome&spx=/84wG7FZaxJkyTg1&type=grpc&sni=promotion.yahoo.com&sid=633f51cc1419b0#🇨🇭CH_1996_@Surfboardv2ray
@@ -603,3 +594,12 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.93:8880?mode=gun&securi
                     </div>
                     
                     <div class="cf-column">
+                        <h2 data-translate="what_can_i_do">What can I do?</h2>
+                            <p><strong>If you are the owner of this website:</strong><br />refer to <a href="https://developers.cloudflare.com/workers/observability/errors/" target="_blank">Workers - Errors and Exceptions</a> and check Workers Logs for ip-api.colaho6124.workers.dev.</p>
+                    </div>
+                    
+                </div>
+            </div><!-- /.section -->
+    
+            <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+    <p class="text-13">
