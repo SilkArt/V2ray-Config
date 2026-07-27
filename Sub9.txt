@@ -347,6 +347,7 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.119:443?path=%2F%3FTELEG
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.72.50:443?encryption=none&type=ws&security=tls&path=%2Ffp&host=t1s1.rittbo.kdns.fr&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#V2rayng_Fast
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#v2ray_dalghak
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#United+Kingdom
 trojan://your_password@43.218.139.54:443/?type=tcp&security=tls&sni=aws-id-jakarta-1.f1rocketnode.com&allowInsecure=1#%D9%84%DB%8C%D9%86%DA%A9%20%D8%B3%D8%A7%D8%A8%D8%B3%DA%A9%D8%B1%D8%A7%DB%8C%D8%A8%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%A2%D8%B2%D8%A7%D8%AF%D9%86%D8%AA%20%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1%20%DA%A9%D8%B1%D8%AF%D9%87
 trojan://your_password@43.218.139.54:443/?type=tcp&security=tls&sni=aws-id-jakarta-1.f1rocketnode.com&allowInsecure=1#%D9%84%DB%8C%D9%86%DA%A9%20%D8%AC%D8%AF%DB%8C%D8%AF%20%D8%AF%D8%B1%20%D9%BE%D8%B3%D8%AA%20%D9%BE%DB%8C%D9%86%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20AzadNet%40
 trojan://your_password@43.218.139.54:443/?type=tcp&security=tls&sni=aws-id-jakarta-1.f1rocketnode.com&allowInsecure=1#Subscription%20link%20Ghanged
@@ -602,4 +603,3 @@ vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?encryption=none&fp=
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?encryption=none&host=e10c0e4b.oodaeq2.pages.dev&path=TELEGRAM-PROXY_MTM%2F%3Fed%3D2048&security=tls&sni=e10c0e4b.oodaeq2.pages.dev&type=ws#رایگان | VLESS | @free1_vpn | US🇺🇸 | 0️⃣5️⃣
 vless://1c64e3b6-581d-430a-b487-8fabda42263f@www.speedtest.net:80?host=5.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FTelegram-ConfigMs%3Fed%3D2048&security=none&type=httpupgrade#رایگان | VLESS | @fnet00 | US🇺🇸 | 0️⃣1️⃣
 vless://f2fb47de-797f-49c9-b5ad-7fddc06e5f8e@www.speedtest.net:80?host=5.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FTelegram-ConfigMs%3Fed%3D2048&security=none&type=httpupgrade#رایگان | VLESS | @fnet00 | US🇺🇸 | 0️⃣2️⃣
-vless://2898cc62-348c-497c-aee1-0a0c3d3a0508@www.speedtest.net:80?host=5.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FTelegram-ConfigMs%3Fed%3D2048&security=none&type=httpupgrade#رایگان | VLESS | @fnet00 | US🇺🇸 | 0️⃣3️⃣
