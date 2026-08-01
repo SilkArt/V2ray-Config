@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://d8b42cd5-a149-4356-9e61-000000000000@195.21.129.117:2552?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE_1795_@Surfboardv2ray
 vless://d8b42cd5-a149-4356-9e61-000000000000@195.21.129.117:2552?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE_1796_@Surfboardv2ray
 vless://d8b42cd5-a149-4356-9e61-000000000000@195.21.129.117:2552?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE_1797_@Surfboardv2ray
 vless://d8b42cd5-a149-4356-9e61-000000000000@195.21.129.117:2552?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE_1798_@Surfboardv2ray
@@ -603,3 +602,4 @@ vless://f73a01e5-db7c-4cd9-8c17-a5607ac58f12@41.128.145.79:443?Telegram=@Gozarga
 vless://f73a01e5-db7c-4cd9-8c17-a5607ac58f12@41.128.145.79:443?security=reality&encryption=none&pbk=i6CVNCvuqjizwQruTgduGnHw_OHtNHCN5-PMK_GYNHw&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.deepseek.com&sid=0d99027052dca5ac#🇪🇬EG_2392_@Surfboardv2ray
 vless://f73a01e5-db7c-4cd9-8c17-a5607ac58f12@41.128.145.79:443?security=reality&encryption=none&pbk=i6CVNCvuqjizwQruTgduGnHw_OHtNHCN5-PMK_GYNHw&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.deepseek.com&sid=0d99027052dca5ac#🇪🇬EG_2393_@Surfboardv2ray
 vless://f73a01e5-db7c-4cd9-8c17-a5607ac58f12@41.128.145.79:443?security=reality&encryption=none&pbk=i6CVNCvuqjizwQruTgduGnHw_OHtNHCN5-PMK_GYNHw&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.deepseek.com&sid=0d99027052dca5ac#🇪🇬EG_2394_@Surfboardv2ray
+vless://f73a01e5-db7c-4cd9-8c17-a5607ac58f12@41.128.145.79:443?security=reality&encryption=none&pbk=i6CVNCvuqjizwQruTgduGnHw_OHtNHCN5-PMK_GYNHw&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.deepseek.com&sid=0d99027052dca5ac#🇪🇬EG_2395_@Surfboardv2ray

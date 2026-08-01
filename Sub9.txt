@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjYgNTE4LjJLQi9zIiwiYWRkIjoiNTcuMTI5LjEzMi4yMjMiLCJwb3J0IjoiODAiLCJpZCI6ImEyNWNiZjExLTI5MDgtNGExYi1hM2E4LTlhNTcxNzc3ZGNhMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6Imdvb2dsZS5jb20iLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjI2In0=
 trojan://BxceQaOe@43.198.98.22:35966?sni=t.me/ripaojiedian#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
 trojan://b490740312aedb5f9f6b84c7aebd08c0@18.166.58.27:49277?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjciLCJhZGQiOiIxMDQuMTYuOTAuMTIwIiwicG9ydCI6Ijg0NDMiLCJpZCI6IjAxYzA1MzBmLTE2OGQtNDY0NS1hNzRjLWYyYjNiMDE1YzIxNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6Im5vZGUtZGUtMS5lNGUzZTIudG9wIiwicGF0aCI6Ii93cyIsInRscyI6InRscyIsInNuaSI6Im5vZGUtZGUtMS5lNGUzZTIudG9wIiwidGVzdF9uYW1lIjoiMjcifQ==
@@ -164,6 +163,7 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTI3IiwiYWRkIjoiMTYxLjI0OC4zMC4zIiwicG9ydCI6
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTI4IiwiYWRkIjoiaXBhLnhuLS0yMjBiYTg0YW02Zzk5d2loZ2lsYXUzYXIxZy5pbmZvIiwicG9ydCI6IjIwNTMiLCJpZCI6ImIwNDg2OGYwLWI1NGQtNGY0OC1hYWQ0LWU1NTQzZDAzYzkwOSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImNkbi54bi0tMjIwYmE4NGFtNmc5OXdpaGdpbGF1M2FyMWcuaW5mbyIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoiY2RuLnhuLS0yMjBiYTg0YW02Zzk5d2loZ2lsYXUzYXIxZy5pbmZvIiwidGVzdF9uYW1lIjoiMTI4In0=
 vmess://eyJ2IjoiMiIsInBzIjoiVVMyMyIsImFkZCI6IjIzLjI1NC4xNjYuMjM3IiwicG9ydCI6IjIwODYiLCJpZCI6IjhkMGZkNjE4LTVkNjAtNDBkNi05ZjIzLWU1MDM1NTVmNDk2ZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6IjIzLjI1NC4xNjYuMjM3IiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVUzIzIn0=
 
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=firefox&type=xhttp&allowInsecure=0&sni=static.lotussec.com#%40FarazV2ray
 vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?encryption=none&security=tls&sni=learn00.evany.de5.net&insecure=1&allowInsecure=1&type=ws&host=learn00.evany.de5.net&path=%2Ffdip#%40Daily_Configs
 vless://29ca503d-e6b8-4509-b666-48133f450857@millionaire.levikogjgfdd.ir:443?path=%2Ffdip&security=tls&encryption=none&host=learn00.evany.de5.net&type=ws&sni=learn00.evany.de5.net#%F0%9F%87%BC%F0%9F%87%B8%20CDN
 vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?type=ws&allowInsecure=0&encryption=none&path=%2Ffdip&insecure=0&host=learn00.evany.de5.net&sni=learn00.evany.de5.net&security=tls#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy
@@ -172,6 +172,7 @@ vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?enc
 vless://29ca503d-e6b8-4509-b666-48133f450857@millionaire.levikogjgfdd.ir:443?path=%2Ffdip&security=tls&encryption=none&host=learn00.evany.de5.net&type=ws&sni=learn00.evany.de5.net#%F0%9F%87%BC%F0%9F%87%B8%20CDN
 vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?type=ws&allowInsecure=0&encryption=none&path=%2Ffdip&insecure=0&host=learn00.evany.de5.net&sni=learn00.evany.de5.net&security=tls#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#%40v2raybaaz%20%C2%B3
+vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjIzMyIsImFpZCI6IjAiLCJob3N0IjoianAyLThzYi42MTIxOTk5LmRwZG5zLm9yZyIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTgwIiwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vmess://eyJhZGQiOiI2Ni4xNjMuMTE3LjU4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJAUHJveHlWUE4xMSIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8gQFByb3h5VlBOMTEiLCJwb3J0IjoiMjIzMjQiLCJwcyI6IvCfh6zwn4enIEBwcm94eV9rYWZlZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#v2ray_dalghak
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#%40V2raysCollector%20%F0%9F%92%99
@@ -602,4 +603,3 @@ hysteria2://de08f485-8f8c-4316-9e80-6e7ecdf91d45@24sg.prometheusnet01.xyz:23729?
 hysteria2://ThisIsNotForSale-Free%24ervice@api.tg8lnk.tech:443?security=tls&insecure=1#🆔iran_v2ray1%20🔒%20HY2-UDP-N/A%20🇸🇬%20SG%20down
 hysteria2://ThisIsNotForSale-Free%24ervice@api.tg8lnk.tech:443?security=tls&insecure=1#🆔iran_v2ray1%20🔒%20HY2-UDP-N/A%20🇸🇬%20SG%20down
 hysteria2://TKozvcwUPN@194.113.106.53:943?security=tls&obfs=salamander&obfs-password=Telegram%3A%40Mikronet-plus+&insecure=0&sni=asghar.mikronetplus.store#🆔iran_v2ray1%20🔒%20HY2-UDP-N/A%20🇷🇺%20RU%20down
-hysteria2://8a3b7d4b-39c4-4bb3-8775-56bd65b771da@br.1010520.xyz:1002?security=tls&insecure=0&sni=br.1010520.xyz#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇸🇬%20SG%20down
