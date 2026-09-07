@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.18:443?mode=gun&security=reality&encryption=none&authority=%2Ft.me%2FV2rayBaaz&pbk=upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY&fp=firefox&type=grpc&serviceName=node.v2.ObjectService&sni=rs1.univesalsrv.com&sid=ed0cd5cc2e26e6e7#🆔ar14n24b%20🔒%20VL-GRPC-%20🇷🇸%20RS%20174ms
+vless://38dd06a1-e1cb-492b-bb87-218ce05d0d67@185.143.233.5:80?path=%2F&security=none&encryption=none&host=fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20137ms
+vless://3dbf58d7-53fc-4fad-8779-1c867e024fd0@185.125.103.62:8082?encryption=none&fp=chrome&host=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev&type=ws#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇩🇪%20DE%20139ms
+vless://4da72a60-61b9-4571-a054-1bba24bf6728@151.101.110.219:443?path=%2F&security=tls&encryption=none&insecure=1&host=nesfeshzksab.global.ssl.fastly.neT.&type=ws&allowInsecure=1&sni=speedtest.net#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇺🇸%20US%2017ms
+vless://50414e45-4c5f-5a45-5553-4585ea01253e@104.17.59.202:443?path=%2Fstream%2FPANEL_ZEUS%2F4585ea01253e%2Floc-5&security=tls&encryption=none&insecure=0&host=h4zjezeyupbs.aghayasin7.workers.dev&type=ws&allowInsecure=0&sni=h4zjezeyupbs.aghayasin7.workers.dev#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇺🇸%20US%2018ms
+vless://50414e45-4c5f-5a45-5553-bafaccfcb789@104.24.77.83:443?encryption=none&security=tls&sni=sszpjleuufys.72zdtweiuqjs.workers.dev&fp=unsafe&type=ws&host=sszpjleuufys.72zdtweiuqjs.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2Fbafaccfcb789%2Floc-7#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇺🇸%20US%2020ms
+vless://534cbbe2-cc36-4f2d-8fb0-90410e7148c9@147.45.145.127:443?security=reality&encryption=none&pbk=tWRR3W8jBAQKBUujLzL7Xri3WXy3F08OxHYrkSOnlAc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=52a6#🆔ar14n24b%20🔒%20VL-TCP-%20🇳🇱%20NL%20127ms
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.87.22:9873?type=grpc&security=reality&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&sni=dl.google.com&serviceName=grpc-tunnel#🆔ar14n24b%20🔒%20VL-GRPC-%20🇺🇦%20UA%20164ms
 vless://5d4a87fa-16f1-4b65-b217-225a31e36239@50.7.245.35:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&security=reality&sid=00a61d55a07de885&sni=fr.convert-flow.net&type=tcp#🆔ar14n24b%20🔒%20VL-TCP-%20🇫🇷%20FR%20133ms
 vless://5e8a9c62-75c4-4462-b54f-498eb08f793b@www.b.mobilesari.ir:443?security=reality&encryption=none&pbk=6yOrgIsMRfTe-Gr9TYgyan-0mnKTNfk6fDBxVOiT4HM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=5002b5329814b487#🆔ar14n24b%20🔒%20VL-TCP-%20🇺🇸%20US%20163ms
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@198.71.189.30:8880?encryption=none&host=vms.lifetime04.workers.dev&path=%2F&security=none&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%2018ms
@@ -595,11 +603,3 @@ hy2://fe7b0a03-175e-4561-b045-f94bb879730f@36.232.37.130:36018?insecure=1&sni=dx
 hy2://e653b8a6-45d7-4438-88fc-5dfe6f734a6b@36.232.37.130:36018?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20H39%20-%20%E2%9A%AB%EF%B8%8F%20t.me/Rayan_Config
 hy2://a74629df-0deb-4b3d-893a-aaedfff1f27a@36.232.37.130:36018?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20H40%20-%20%E2%9A%AB%EF%B8%8F%20t.me/Rayan_Config
 
-
-
-
-GAFN DIRECT:
-
-
-vmess://eyJhZGQiOiIyMTIuMTE1LjEyNC4yMjQiLCJhaWQiOiIwIiwiaG9zdCI6ImR4b2JHNGFabWsuZ2Fmbm9kZS5zYnMiLCJpZCI6Ijc4MDhiMjFiLWI5YjQtNDlmOS1iMGE4LThmNTA3YmUxMTYyOSIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0IjoiNDIxMzYiLCJwcyI6IlJheWFuIC0gR0FGTiAtIENGIC0gQzAxIC0g4pq+77iPIHQubWUvUmF5YW5fQ29uZmlnIiwic2N5IjoiYXV0byIsInNuaSI6Inp1bGEuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIyMTIuMTE1LjEyNC4yMjQiLCJhaWQiOiIwIiwiaG9zdCI6ImR4b2JHNGFabWsuZ2Fmbm9kZS5zYnMiLCJpZCI6ImY5MDE4NjFiLTY0OTEtNDUwYy1iNTAwLTYwNmIyZTkyMTYyNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0IjoiNDIxMzYiLCJwcyI6IlJheWFuIC0gR0FGTiAtIENGIC0gQzAyIC0g4pq+77iPIHQubWUvUmF5YW5fQ29uZmlnIiwic2N5IjoiYXV0byIsInNuaSI6Inp1bGEuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
