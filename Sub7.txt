@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.122.86.165:440?encryption=none&headerType=http&host=store.steampowered.com&path=/&security=none&type=tcp#🇩🇪DE_1776_@Surfboardv2ray
 vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.122.86.165:440?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🇩🇪DE_1777_@Surfboardv2ray
 vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.122.86.165:440?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🇩🇪DE_1778_@Surfboardv2ray
 vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.193.33:440?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🇩🇪DE_1779_@Surfboardv2ray
@@ -603,3 +602,4 @@ vless://85c4c0ce-08ef-493d-96f3-a711a70ec995@172.67.139.85:80?security=none&encr
 vless://86134e7c-069f-49f6-9442-51866c1d02ad@85.9.211.29:443?fp=chrome&type=grpc&spx=/a2f8e743de1a111&encryption=none&sid=aa9ab516&security=reality&sni=Play.google.com&pbk=AiQfqyjIwZdDKmymDmsYg4axSMsOx-6BoGIOeYpNHTE#🇳🇱NL_2373_@Surfboardv2ray
 vless://862f9ab3-e9db-f0f2-0bf6-a582d09dcdb0@69.46.46.22:443?path=/ws/862f9ab3-e9db-f0f2-0bf6-a582d09dcdb0&security=tls&alpn=http/1.1&encryption=none&host=velvet-glacier-70e1-production.up.railway.app&fp=chrome&type=ws&sni=velvet-glacier-70e1-production.up.railway.app#🇺🇸US_2374_@Surfboardv2ray
 vless://8633ca81-65f6-4aa4-af09-6edc31f13eaa@193.233.133.152:58862?security=reality&encryption=none&pbk=uyj9cFlYSb1mJnA1kyHGIaHxoMokvvXj8ive54wn_xs&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.amazon.com&sid=ef42cf8770e2d6a9#🇫🇷FR_2375_@Surfboardv2ray
+vless://86930779-64ec-46a5-97d9-55e3107f3ce3@23.251.47.71:443?security=reality&encryption=none&pbk=E6TSsyOKiYD_V3m3-4BTZVJBbHDgn2dEDg6cCDpASxU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=dde3c2dca27ae6e7#🇩🇪DE_2376_@Surfboardv2ray
